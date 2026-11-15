@@ -200,13 +200,6 @@ weatherkit.apple.com
 www.apple.com
 www.apple.com.edgekey.net.globalredir.akadns.net
 xp.apple.com
-+.beats1.cn
-+.beats1.com.cn
-+.beats2.com.cn
-+.beats4.cn
-+.beatsbydre.com
-+.beatsbydre.com.cn
-+.beatsep.cn
 cdn.apple-mapkit.com
 cdn1.apple-mapkit.com
 cdn2.apple-mapkit.com
@@ -238,6 +231,13 @@ valid.apple.com
 valid.origin-apple.com.akadns.net
 amp-api.podcasts.apple.com
 podcasts.apple.com
++.beats1.cn
++.beats1.com.cn
++.beats2.com.cn
++.beats4.cn
++.beatsbydre.com
++.beatsbydre.com.cn
++.beatsep.cn
 +.apple-icloud.cn
 +.appleicloud.cn
 +.icloud-apple.cn

@@ -1,12 +1,4 @@
 payload:
-    - mvideo.edna.io
-    - sberpro.vedomosti.ru
-    - kp-config-smart-tv.akamaized.net
-    - kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
-    - kp-config-smart-tv.akamaized.net
-    - kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
-    - st-ok-pts.cdn-vk.ru
-    - st-ok.cdn-vk.ru
     - bilet.nspk.ru
     - metro.spb.ru
     - mos.transport.vtb.ru
@@ -16,6 +8,14 @@ payload:
     - taxi.yandex.ru
     - edu.tinkoff.ru
     - education.tbank.ru
+    - kp-config-smart-tv.akamaized.net
+    - kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+    - mvideo.edna.io
+    - st-ok-pts.cdn-vk.ru
+    - st-ok.cdn-vk.ru
+    - kp-config-smart-tv.akamaized.net
+    - kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+    - sberpro.vedomosti.ru
     - +.moscow
     - +.yandex
     - +.xn--p1ai
@@ -28,7 +28,6 @@ payload:
     - +.tatar
     - +.su
     - +.ru
-    - +.vkuseraudio.com
     - +.netmonet.co
     - +.tips.tips
     - +.adygtelecom.com
@@ -46,6 +45,7 @@ payload:
     - +.srv-hub.org
     - +.t1.cloud
     - +.taxsee.com
+    - +.vigo.tech
     - +.vimu.tv
     - +.yourgood.app
     - +.zapishu.me
@@ -54,33 +54,36 @@ payload:
     - +.public.express
     - +.xlnk.ms
     - +.mfa.center
-    - +.dodois.com
-    - +.dodois.io
-    - +.dodopizza.com
-    - +.dodostatic.net
-    - +.evrasia.rest
-    - +.fix-price.com
-    - +.lenta.com
-    - +.lenta.tech
-    - +.ostin.com
-    - +.uni.rest
-    - +.unirest.tech
-    - +.magnit.com
-    - +.acmvid.com
-    - +.oskelly.co
-    - +.5post.market
-    - +.chizhik.club
-    - +.okolo.app
-    - +.perekrestok.com
-    - +.x5.ai
-    - +.x5.com
-    - +.x5.digital
-    - +.x5.group
-    - +.x5.media
-    - +.x5.team
-    - +.x5.tech
-    - +.x5static.net
-    - +.sokolov.io
+    - +.tilda.cc
+    - +.tilda.ws
+    - +.tildaapi.com
+    - +.tildacdn.com
+    - +.tildacdn.net
+    - +.usocial.pro
+    - +.ucoz.co
+    - +.ucoz.ae
+    - +.ucoz.com
+    - +.ucoz.site
+    - +.ucoztemplates.com
+    - +.ucoz.de
+    - +.ucoz.es
+    - +.ucoz.fr
+    - +.ucoz.hu
+    - +.ucoz.kz
+    - +.ucoz.lv
+    - +.ucoz.md
+    - +.ucoz.net
+    - +.ucoz.org
+    - +.ucoz.pl
+    - +.ucozmail.com
+    - +.ucoz.club
+    - +.ucoz.ua
+    - +.ucozmedia.com
+    - +.ukit.ai
+    - +.ukit.com
+    - +.ukit.group
+    - +.ukit.me
+    - +.at.ua
     - +.drweb.by
     - +.drweb.cn
     - +.drweb.com
@@ -91,48 +94,35 @@ payload:
     - +.drweb-av.es
     - +.drweb-av.it
     - +.drweb-av.pl
-    - +.megamarket.tech
-    - +.sberauto.com
-    - +.sberbank-tele.com
-    - +.sbercloud.tech
-    - +.cloudru.cn
-    - +.eaptechka.online
-    - +.giga.chat
-    - +.jivo.chat
-    - +.jivochat.com
-    - +.jivochat.de
-    - +.jivochat.es
-    - +.jivochat.ng
-    - +.vk.me
-    - +.sber.pro
-    - +.accesspoint.uz
-    - +.getsynapse.io
-    - +.zvuk-b2b.com
-    - +.zvuk.com
-    - +.2gis.cz
-    - +.2gis.ae
-    - +.2gis.az
-    - +.2gis.by
-    - +.2gis.com
-    - +.2gis.tech
-    - +.2gis.am
-    - +.2gis.ge
-    - +.2gis.kz
-    - +.2gis.kg
-    - +.2gis.tj
-    - +.2gis.uz
-    - +.spasibo.market
-    - +.spasibo.digital
-    - +.okkoapi.tv
-    - +.okko.sport
-    - +.okko.tv
-    - +.bps-sberbank.by
-    - +.sber-bank.by
-    - +.sberbank.com
+    - +.rabota.by
+    - +.sistema-capital.com
+    - +.renins.com
+    - +.lexgarant.com
+    - +.amt-insurance.com
+    - +.rwbautomation.tech
+    - +.hellodoc.app
+    - +.reso-med.com
+    - +.medsi.com
+    - +.medrocket.me
+    - +.medsi.pro
+    - +.smartmed.pro
+    - +.reaviz.com
+    - +.emias.info
+    - +.gorzdrav.org
+    - +.pz.help
+    - +.hh.kz
+    - +.hh.by
+    - +.gismeteo.by
+    - +.gismeteo.com
+    - +.gismeteo.net
+    - +.gismeteo.st
+    - +.meteofor.com
+    - +.meteofor.st
+    - +.kontur-inc.com
+    - +.kontur.host
+    - +.ktalk.host
     - +.chipcore.com
     - +.haicomdc.com
-    - +.sprut.io
-    - +.begetcdn.cloud
     - +.selcdn.net
     - +.selectel.academy
     - +.selectel.blog
@@ -147,31 +137,18 @@ payload:
     - +.tehnodom.com
     - +.vscale.blog
     - +.vscale.io
-    - +.emias.info
-    - +.edu22.info
-    - +.netschool.website
-    - +.volganet.net
-    - +.durovscode.com
-    - +.seclab.lat
-    - +.ixbt.com
-    - +.ixbt.games
-    - +.ixbt.pro
-    - +.ixbt.market
-    - +.ixbt.media
-    - +.ixbt.shop
-    - +.ixbt.site
-    - +.ixbt.video
+    - +.netcraze.club
+    - +.netcraze.link
+    - +.netcraze.pro
     - +.ds-servers.com
     - +.dsn.host
     - +.dsncdn.net
-    - +.reg.cloud
-    - +.reg.com
-    - +.whoosh.bike
-    - +.bk6bba-resources.com
-    - +.fon.bet
-    - +.fon.promo
-    - +.mobile-bb.com
-    - +.cdek.shopping
+    - +.botmechanic.io
+    - +.mindbox.cloud
+    - +.mindbox.group
+    - +.mindbox.site
+    - +.mindbox.so
+    - +.popmechanic.io
     - +.comss.club
     - +.comss.info
     - +.comss.me
@@ -180,54 +157,79 @@ payload:
     - +.comss.one
     - +.comss.online
     - +.comss.org
-    - +.groupib.ae
-    - +.cert-gib.com
-    - +.group-ib.com
-    - +.cybercrimecon.com
-    - +.gibdev.net
-    - +.g-ib.ae
-    - +.g-ib.sg
-    - +.g-ib.us
-    - +.gib-global.com
-    - +.gib.sg
-    - +.group-ib.ae
-    - +.group-ib.de
-    - +.group-ib.eu
-    - +.group-ib.sg
-    - +.group-ib.us
-    - +.antiphishing.nl
-    - +.groupib.sg
-    - +.groupib.us
-    - +.f6.dev
-    - +.f6.security
-    - +.facct.email
-    - +.beget.tech
-    - +.beget.pro
-    - +.beget.hosting
-    - +.netcraze.club
-    - +.netcraze.link
-    - +.netcraze.pro
-    - +.sistema-capital.com
-    - +.renins.com
-    - +.lexgarant.com
-    - +.amt-insurance.com
-    - +.promodj.com
-    - +.beeline.tv
-    - +.kinescopecdn.net
-    - +.kinorium.com
-    - +.24h.tv
-    - +.ivi.tv
-    - +.ivicdn.tv
-    - +.premier.one
-    - +.smotreshka.tv
-    - +.rutube.sport
-    - +.trbcdn.net
-    - +.cdnvideohub.com
-    - +.restream-media.net
-    - +.more.tv
-    - +.wink.am
-    - +.beget.email
-    - +.beget.de
+    - +.joyreactor.cc
+    - +.opennet.dev
+    - +.yaplakal.com
+    - +.greywallpass.com
+    - +.avs.io
+    - +.aviasales.com
+    - +.mosmetro.tech
+    - +.cdek.shopping
+    - +.copymonkey.app
+    - +.gerwin.io
+    - +.giga.chat
+    - +.polza.ai
+    - +.robotext.io
+    - +.rugpt.io
+    - +.tokenator.top
+    - +.sky.pro
+    - +.alfabank.st
+    - +.bank131.com
+    - +.gazprombank.com
+    - +.gazprombank.investments
+    - +.moex.com
+    - +.dbo-dengi.online
+    - +.alfa.me
+    - +.home.bank
+    - +.hva.im
+    - +.tochka-tech.com
+    - +.tochka.com
+    - +.ubs.com
+    - +.vtb-direct.com
+    - +.vtb.com
+    - +.vtbglobalperspectives.com
+    - +.best2pay.net
+    - +.koronapay.com
+    - +.rbsgate.com
+    - +.rbsuat.com
+    - +.alefbank.com
+    - +.energotransbank.com
+    - +.maritimebank.com
+    - +.pvubank.com
+    - +.priovtb.com
+    - +.pskb.com
+    - +.prodcontest.com
+    - +.xn--h1ao.site
+    - +.bps-sberbank.by
+    - +.sber-bank.by
+    - +.sberbank.com
+    - +.spasibo.digital
+    - +.spasibo.market
+    - +.4epenaxa.com
+    - +.atomyze.tech
+    - +.codeseason.by
+    - +.etna.ai
+    - +.jump.taxi
+    - +.koshelek.app
+    - +.rosbank-credit.com
+    - +.safeliner.tech
+    - +.sage-observability.tech
+    - +.t-bank.by
+    - +.t-finance.group
+    - +.t-tech.dev
+    - +.t-tech.team
+    - +.t.finance
+    - +.tbank-online.com
+    - +.tdev.by
+    - +.tinkoff-group.com
+    - +.tinkoff.ai
+    - +.tinkoffmobile.com
+    - +.unidraw.io
+    - +.xn--90aifd0az.shop
+    - +.xn--b1aechhj6bof8g5a.site
+    - +.xn--d1abkf4ap.fun
+    - +.servicepipe.tech
+    - +.ideco.dev
     - +.ru.net
     - +.yandex.kg
     - +.yangofellowship.com
@@ -280,7 +282,6 @@ payload:
     - +.yastat.net
     - +.yandex.org
     - +.yandex.pl
-    - +.yandex.pro
     - +.yandex.st
     - +.yandex.sx
     - +.yandex.jobs
@@ -308,33 +309,173 @@ payload:
     - +.yango.qa
     - +.yango.taxi
     - +.yango.tech
-    - +.beget.com
-    - +.beget.cloud
-    - +.beget.app
-    - +.gismeteo.by
-    - +.gismeteo.com
-    - +.gismeteo.net
-    - +.vkuservideo.net
-    - +.meteofor.com
-    - +.meteofor.st
-    - +.myoffice.team
-    - +.copymonkey.app
-    - +.gerwin.io
-    - +.polza.ai
-    - +.robotext.io
-    - +.rugpt.io
-    - +.tokenator.top
-    - +.tak-pravilno.com
-    - +.hellodoc.app
-    - +.reso-med.com
-    - +.medsi.com
-    - +.medrocket.me
-    - +.medsi.pro
-    - +.smartmed.pro
-    - +.reaviz.com
-    - +.gorzdrav.org
-    - +.pz.help
-    - +.gramotei.online
+    - +.dodois.com
+    - +.dodois.io
+    - +.dodopizza.com
+    - +.dodostatic.net
+    - +.evrasia.rest
+    - +.fix-price.com
+    - +.lenta.com
+    - +.lenta.tech
+    - +.ostin.com
+    - +.uni.rest
+    - +.unirest.tech
+    - +.magnit.com
+    - +.acmvid.com
+    - +.oskelly.co
+    - +.5post.market
+    - +.chizhik.club
+    - +.okolo.app
+    - +.perekrestok.com
+    - +.x5.ai
+    - +.x5.com
+    - +.x5.digital
+    - +.x5.group
+    - +.x5.media
+    - +.x5.team
+    - +.x5.tech
+    - +.x5static.net
+    - +.sokolov.io
+    - +.durovscode.com
+    - +.seclab.lat
+    - +.ixbt.com
+    - +.ixbt.games
+    - +.ixbt.pro
+    - +.ixbt.market
+    - +.ixbt.media
+    - +.ixbt.shop
+    - +.ixbt.site
+    - +.ixbt.video
+    - +.groupib.ae
+    - +.cert-gib.com
+    - +.group-ib.com
+    - +.cybercrimecon.com
+    - +.gibdev.net
+    - +.g-ib.ae
+    - +.g-ib.sg
+    - +.g-ib.us
+    - +.gib-global.com
+    - +.gib.sg
+    - +.group-ib.ae
+    - +.group-ib.de
+    - +.group-ib.eu
+    - +.group-ib.sg
+    - +.group-ib.us
+    - +.antiphishing.nl
+    - +.groupib.sg
+    - +.groupib.us
+    - +.f6.dev
+    - +.f6.security
+    - +.facct.email
+    - +.avito.com
+    - +.avito.st
+    - +.avito.tech
+    - +.cian.site
+    - +.poudobnee.com
+    - +.flowwow-images.com
+    - +.flowwow.com
+    - +.funpay.com
+    - +.sfunpay.com
+    - +.ozon.tm
+    - +.ozon.tech
+    - +.ozon.app
+    - +.ozon.by
+    - +.ozon.com
+    - +.ozon.travel
+    - +.ozon.dev
+    - +.ozon.express
+    - +.ozon.global
+    - +.ozoncamp.pro
+    - +.ozon.li
+    - +.ozon.market
+    - +.xn--e1adjldbbpv.xn--90ais
+    - +.rocketozon.by
+    - +.ozon.kz
+    - +.ozoncom.by
+    - +.ozonglobalevents.com
+    - +.ozonpartners.by
+    - +.ozonrocet.by
+    - +.ozonroket.by
+    - +.ozonru.com
+    - +.ozonru.eu
+    - +.ozonru.me
+    - +.ozonusercontent.com
+    - +.ru.com
+    - +.mp.world
+    - +.paywb.com
+    - +.yandex.pro
+    - +.warehouse.domains
+    - +.wb.am
+    - +.wb.kg
+    - +.wb.kz
+    - +.wbcontent.net
+    - +.wbr.by
+    - +.wbstatic.net
+    - +.wbwh.tech
+    - +.wibes.com
+    - +.wildberries.am
+    - +.wildberries.by
+    - +.wildberries.es
+    - +.wildberries.eu
+    - +.wildberries.ge
+    - +.wildberries.kg
+    - +.wildberries.kz
+    - +.wildberries.lt
+    - +.wildberries.tj
+    - +.wildberries.tm
+    - +.wildberries.uz
+    - +.xn--90ab.com
+    - +.wbautomation.tech
+    - +.cm.expert
+    - +.autoru.me
+    - +.volganet.net
+    - +.callbackkiller.com
+    - +.cbkiller.com
+    - +.envybox.company
+    - +.envybox.family
+    - +.envybox.io
+    - +.envybox.kg
+    - +.envycdp.com
+    - +.envycrm.com
+    - +.saas-support.com
+    - +.whitesaas.com
+    - +.carrot-mail.io
+    - +.carrotquest-mail.io
+    - +.carrotquest.app
+    - +.carrotquest.io
+    - +.carrottrack.app
+    - +.dashly.app
+    - +.dashly.help
+    - +.dashly.io
+    - +.dashly.me
+    - +.dashlytrack.app
+    - +.mail-carrotquest.io
+    - +.pushgrow.io
+    - +.mobile-bb.com
+    - +.bk6bba-resources.com
+    - +.fon.bet
+    - +.fon.promo
+    - +.kaspersky.nl
+    - +.kaspersky.be
+    - +.kaspersky.my
+    - +.kaspersky.ca
+    - +.kaspersky.se
+    - +.kaspersky.rs
+    - +.kaspersky.ro
+    - +.kaspersky.ma
+    - +.kaspersky.pt
+    - +.kaspersky.es
+    - +.kaspersky.com
+    - +.kaspersky-labs.com
+    - +.kaspersky.kz
+    - +.kaspersky.it
+    - +.kaspersky.gr
+    - +.kaspersky.fr
+    - +.kaspersky.cz
+    - +.kaspersky.de
+    - +.kaspersky.dk
+    - +.kaspersky.dz
+    - +.kaspersky.fi
     - +.armgs.team
     - +.bargipsy.com
     - +.boosty.to
@@ -477,189 +618,22 @@ payload:
     - +.vkcache.com
     - +.vkcdnservice.com
     - +.vkuser.net
-    - +.ru.com
+    - +.vkuseraudio.com
     - +.vkuseraudio.net
     - +.vkuserlive.com
     - +.vkuserlive.net
     - +.vkuservideo.com
-    - +.gismeteo.st
-    - +.jivosite.com
+    - +.vkuservideo.net
+    - +.vk.me
     - +.vkmessenger.app
     - +.vkmessenger.com
     - +.vkpay.app
     - +.vkpay.com
     - +.vkpay.io
-    - +.timeweb.cloud
-    - +.timeweb.com
-    - +.timeweb.tech
-    - +.timewebcloud.kz
-    - +.callbackkiller.com
-    - +.cbkiller.com
-    - +.envybox.company
-    - +.envybox.family
-    - +.envybox.io
-    - +.envybox.kg
-    - +.envycdp.com
-    - +.envycrm.com
-    - +.saas-support.com
-    - +.whitesaas.com
-    - +.genetic-technologies.am
-    - +.genotek.am
-    - +.genotek.es
-    - +.genotek.eu
-    - +.genotek.health
-    - +.eligens.cl
-    - +.eligens.io
     - +.smena.cafe
-    - +.tilda.cc
-    - +.tilda.ws
-    - +.tildaapi.com
-    - +.tildacdn.com
-    - +.tildacdn.net
-    - +.usocial.pro
-    - +.ucoz.co
-    - +.ucoz.ae
-    - +.ucoz.com
-    - +.ucoz.site
-    - +.ucoztemplates.com
-    - +.ucoz.de
-    - +.ucoz.es
-    - +.ucoz.fr
-    - +.ucoz.hu
-    - +.ucoz.kz
-    - +.ucoz.lv
-    - +.ucoz.md
-    - +.ucoz.net
-    - +.ucoz.org
-    - +.ucoz.pl
-    - +.ucozmail.com
-    - +.ucoz.club
-    - +.ucoz.ua
-    - +.ucozmedia.com
-    - +.ukit.ai
-    - +.ukit.com
-    - +.ukit.group
-    - +.ukit.me
-    - +.at.ua
-    - +.mel.fm
-    - +.hh.by
-    - +.hh.kz
-    - +.rabota.by
-    - +.kaspersky.nl
-    - +.kaspersky.be
-    - +.kaspersky.my
-    - +.kaspersky.ca
-    - +.kaspersky.se
-    - +.kaspersky.rs
-    - +.kaspersky.ro
-    - +.kaspersky.ma
-    - +.kaspersky.pt
-    - +.kaspersky.es
-    - +.kaspersky.com
-    - +.kaspersky-labs.com
-    - +.kaspersky.kz
-    - +.kaspersky.it
-    - +.kaspersky.gr
-    - +.kaspersky.fr
-    - +.kaspersky.cz
-    - +.kaspersky.de
-    - +.kaspersky.dk
-    - +.kaspersky.dz
-    - +.kaspersky.fi
-    - +.xn--d1abkf4ap.fun
-    - +.xn--b1aechhj6bof8g5a.site
-    - +.xn--90aifd0az.shop
-    - +.unidraw.io
-    - +.tinkoffmobile.com
-    - +.botmechanic.io
-    - +.mindbox.cloud
-    - +.mindbox.group
-    - +.mindbox.site
-    - +.mindbox.so
-    - +.popmechanic.io
-    - +.greywallpass.com
-    - +.avs.io
-    - +.aviasales.com
-    - +.mosmetro.tech
-    - +.joyreactor.cc
-    - +.opennet.dev
-    - +.yaplakal.com
-    - +.carrot-mail.io
-    - +.carrotquest-mail.io
-    - +.carrotquest.app
-    - +.carrotquest.io
-    - +.carrottrack.app
-    - +.dashly.app
-    - +.dashly.help
-    - +.dashly.io
-    - +.dashly.me
-    - +.dashlytrack.app
-    - +.mail-carrotquest.io
-    - +.pushgrow.io
-    - +.sky.pro
-    - +.flowwow-images.com
-    - +.flowwow.com
-    - +.funpay.com
-    - +.sfunpay.com
-    - +.ozon.tm
-    - +.ozon.tech
-    - +.ozon.app
-    - +.ozon.by
-    - +.ozon.com
-    - +.ozon.travel
-    - +.ozon.dev
-    - +.ozon.express
-    - +.ozon.global
-    - +.ozoncamp.pro
-    - +.ozon.li
-    - +.ozon.market
-    - +.xn--e1adjldbbpv.xn--90ais
-    - +.rocketozon.by
-    - +.ozon.kz
-    - +.ozoncom.by
-    - +.ozonglobalevents.com
-    - +.ozonpartners.by
-    - +.ozonrocet.by
-    - +.ozonroket.by
-    - +.ozonru.com
-    - +.ozonru.eu
-    - +.ozonru.me
-    - +.ozonusercontent.com
-    - +.mp.world
-    - +.paywb.com
-    - +.wbstatic.net
-    - +.rwbautomation.tech
-    - +.warehouse.domains
-    - +.wb.am
-    - +.wb.kg
-    - +.wb.kz
-    - +.wbautomation.tech
-    - +.wbcontent.net
-    - +.wbr.by
-    - +.wbwh.tech
-    - +.wibes.com
-    - +.wildberries.am
-    - +.wildberries.by
-    - +.wildberries.es
-    - +.wildberries.eu
-    - +.wildberries.ge
-    - +.wildberries.kg
-    - +.wildberries.kz
-    - +.wildberries.lt
-    - +.wildberries.tj
-    - +.wildberries.tm
-    - +.wildberries.uz
-    - +.xn--90ab.com
-    - +.poudobnee.com
-    - +.autoru.me
-    - +.cm.expert
-    - +.avito.com
-    - +.avito.st
-    - +.avito.tech
-    - +.cian.site
-    - +.tinkoff.ai
-    - +.tinkoff-group.com
-    - +.servicepipe.tech
+    - +.megafon.com
+    - +.mts-ws.net
+    - +.tvoyodbo.online
     - +.rtde.live
     - +.de-rt.org
     - +.eadaily.com
@@ -774,7 +748,60 @@ payload:
     - +.rt-school.online
     - +.ruptly.agency
     - +.ruptly.tv
-    - +.tdev.by
+    - +.reg.cloud
+    - +.reg.com
+    - +.whoosh.bike
+    - +.cdnvideohub.com
+    - +.kinescopecdn.net
+    - +.trbcdn.net
+    - +.kinorium.com
+    - +.24h.tv
+    - +.beeline.tv
+    - +.ivi.tv
+    - +.ivicdn.tv
+    - +.premier.one
+    - +.smotreshka.tv
+    - +.promodj.com
+    - +.okkoapi.tv
+    - +.okko.sport
+    - +.okko.tv
+    - +.restream-media.net
+    - +.more.tv
+    - +.wink.am
+    - +.rutube.sport
+    - +.myoffice.team
+    - +.megamarket.tech
+    - +.sberauto.com
+    - +.sberbank-tele.com
+    - +.sbercloud.tech
+    - +.cloudru.cn
+    - +.eaptechka.online
+    - +.jivo.chat
+    - +.jivochat.com
+    - +.jivochat.de
+    - +.jivochat.es
+    - +.jivochat.ng
+    - +.jivosite.com
+    - +.sber.pro
+    - +.accesspoint.uz
+    - +.getsynapse.io
+    - +.zvuk-b2b.com
+    - +.zvuk.com
+    - +.2gis.cz
+    - +.2gis.ae
+    - +.2gis.az
+    - +.2gis.by
+    - +.2gis.com
+    - +.2gis.tech
+    - +.2gis.am
+    - +.2gis.ge
+    - +.2gis.kz
+    - +.2gis.kg
+    - +.2gis.tj
+    - +.2gis.uz
+    - +.mel.fm
+    - +.gramotei.online
+    - +.tak-pravilno.com
     - +.bitrix.info
     - +.bitrix24.com
     - +.bitrix24.net
@@ -782,63 +809,42 @@ payload:
     - +.bitrix24public.com
     - +.bitrixphone.com
     - +.bitrixsoft.com
-    - +.ideco.dev
-    - +.kontur-inc.com
-    - +.kontur.host
-    - +.ktalk.host
+    - +.genetic-technologies.am
+    - +.genotek.am
+    - +.genotek.es
+    - +.genotek.eu
+    - +.genotek.health
+    - +.eligens.cl
+    - +.eligens.io
+    - +.timeweb.cloud
+    - +.timeweb.com
+    - +.timeweb.tech
+    - +.timewebcloud.kz
+    - +.beget.app
+    - +.beget.cloud
+    - +.beget.com
+    - +.beget.de
+    - +.beget.email
+    - +.beget.hosting
+    - +.beget.pro
+    - +.beget.tech
+    - +.begetcdn.cloud
+    - +.sprut.io
     - +.ptsecurity.com
     - +.standoff365.com
-    - +.megafon.com
-    - +.mts-ws.net
-    - +.dbo-dengi.online
-    - +.tvoyodbo.online
-    - +.alfabank.st
-    - +.bank131.com
-    - +.gazprombank.com
-    - +.gazprombank.investments
-    - +.moex.com
-    - +.alfa.me
-    - +.home.bank
-    - +.hva.im
-    - +.tochka-tech.com
-    - +.tochka.com
-    - +.ubs.com
-    - +.vtb-direct.com
-    - +.vtb.com
-    - +.vtbglobalperspectives.com
-    - +.best2pay.net
-    - +.koronapay.com
-    - +.rbsgate.com
-    - +.rbsuat.com
-    - +.alefbank.com
-    - +.energotransbank.com
-    - +.maritimebank.com
-    - +.pvubank.com
-    - +.priovtb.com
-    - +.pskb.com
-    - +.prodcontest.com
-    - +.xn--h1ao.site
-    - +.4epenaxa.com
-    - +.atomyze.tech
-    - +.codeseason.by
-    - +.etna.ai
-    - +.jump.taxi
-    - +.koshelek.app
-    - +.rosbank-credit.com
-    - +.safeliner.tech
-    - +.sage-observability.tech
-    - +.t-bank.by
-    - +.t-finance.group
-    - +.t-tech.dev
-    - +.t-tech.team
-    - +.t.finance
-    - +.tbank-online.com
-    - +.2gis.com.cy
+    - +.edu22.info
+    - +.netschool.website
+    - +.ucoz.com.ro
+    - +.jivochat.com.br
+    - +.jivochat.co.in
+    - +.jivochat.co.za
+    - +.ewisdom.us.kg
+    - +.jivochat.com.co
     - +.ozonru.co.il
-    - +.wildberries.co.il
-    - +.ozon.com.by
-    - +.ozon.com.kz
-    - +.eligens.com.br
+    - +.jivochat.com.tr
+    - +.2gis.com.cy
+    - +.gazetarussa.com.br
+    - +.odnoklassniki.co.ee
     - +.kaspersky.co.in
     - +.kaspersky.co.jp
     - +.kaspersky.co.kr
@@ -852,28 +858,23 @@ payload:
     - +.kaspersky.com.tw
     - +.kaspersky.com.vn
     - +.kaspersky.co.uk
-    - +.ru.ccb.com
-    - +.ucoz.co.uk
-    - +.ucoz.com.br
-    - +.ucoz.com.ro
-    - +.odnoklassniki.co.ee
-    - +.gazetarussa.com.br
-    - +.ewisdom.us.kg
+    - +.wildberries.co.il
+    - +.ozon.com.kz
+    - +.eligens.com.br
+    - +.jivochat.com.pe
+    - +.group-ib.co.uk
     - +.yandex.co.il
     - +.yandex.com.am
     - +.yandex.com.ge
     - +.yandex.com.tr
     - +.yandex.com.ua
     - +.yango.co.il
-    - +.group-ib.co.uk
-    - +.jivochat.co.in
-    - +.jivochat.co.za
-    - +.jivochat.com.br
-    - +.jivochat.com.co
-    - +.jivochat.com.pe
-    - +.jivochat.com.tr
-    - +.ucoz.co.il
+    - +.ru.ccb.com
     - +.drweb.co.jp
+    - +.ucoz.co.uk
+    - +.ucoz.com.br
+    - +.ozon.com.by
+    - +.ucoz.co.il
     - +.mcc250.pub.3gppnetwork.org
     - +.adriver.ru
     - +.flocktory.com
@@ -881,15 +882,18 @@ payload:
     - +.targetads.io
     - +.terratraf.com
     - +.terratraf.io
-    - ads.x5.ru
-    - ads.x5media.ru
-    - sentry.x5.ru
-    - +.neon.click
-    - +.sbermarketing.ru
-    - error-tracking.megamarket.tech
-    - metrics.21-school.ru
-    - sentry.sberauto.com
-    - tracing-http.megamarket.tech
+    - metrika.kontur.ru
+    - sentry.kontur.host
+    - +.e.mindbox.ru
+    - +.g.mindbox.ru
+    - +.s.mindbox.ru
+    - api-js.mindbox.ru
+    - api-ru.mindbox.cloud
+    - api-staging.mindbox.ru
+    - api.mindbox.cloud
+    - api.mindbox.ru
+    - sentry.mindbox.ru
+    - sentry.popmechanic.ru
     - +.ads.sber.ru
     - +.clickstream.sberbank.ru
     - visor.sberbank.ru
@@ -935,77 +939,54 @@ payload:
     - mc.yango.com
     - pixel.yandex.com
     - report.ap.yandex-net.ru
-    - sentry.iptv.rt.ru
-    - +.ad.mail.ru
-    - +.ads.viqeo.tv
-    - +.adsadvisor.io
-    - +.alt-ad.mail.ru
-    - +.apptracer.ru
-    - +.cxhub.ru
-    - +.metrics.viqeo.tv
-    - +.myadx.net
-    - +.r.mail.ru
-    - +.radar.imgsmail.ru
-    - +.relap.mail.ru
-    - +.target.my.com
-    - +.top-fwz1.mail.ru
-    - +.trace-flow.ru
-    - +.tracker-api.my.com
-    - +.tracker.my.com
-    - 1l-hit.mail.ru
-    - 1l-hit.vkplay.ru
-    - ad4.mail.ru
-    - ads-integration.rustore.ru
-    - ads.dahlmessenger.com
-    - ads.icq.com
-    - ads.rustore.ru
-    - adsapp.dahlmessenger.com
-    - adsapp.telega.info
-    - adsapp.stage.telega.info
-    - adv.rustore.ru
-    - alt-r.my.com
-    - an.mail.ru
-    - b2.mail.ru
-    - bs.mail.ru
-    - click.rustore.ru
-    - pixel.rustore.ru
-    - r0.mail.ru
-    - r0.mradx.net
-    - r1.mail.ru
-    - reklama.mail.ru
-    - rs.mail.ru
-    - sentry-ng.g.smailru.net
-    - srch-telemeter10.g.smailru.net
-    - sentry.dev-my.com
-    - sentry.dev-my.games
-    - sentry.rustore.ru
-    - sentry.viqeo.tv
-    - stacks.vk-portal.net
-    - stats.dahlmessenger.com
-    - stats.dev.telega.info
-    - stats.rustore.ru
-    - stats.telega.info
-    - t.mail.ru
-    - top-staging.mail.ru
-    - whiteline.mail.ru
-    - xray.mail.ru
-    - +.adv.vk.com
-    - +.analytics.vk.com
-    - +.ms.vk.com
-    - +.ms.vk.ru
-    - +.target.vk.ru
-    - +.vk-analytics.ru
-    - adblogger.vk.com
-    - adblogger.vk.ru
-    - ads.vk.com
-    - ads.vk.ru
-    - adv.vk.ru
-    - advk.vk.ru
-    - analytics.vk.ru
-    - stats.vk-portal.net
-    - target.vk.com
-    - +.log.dzen.ru
-    - +.ms.dzen.ru
+    - ads.x5.ru
+    - ads.x5media.ru
+    - sentry.x5.ru
+    - stats.avito.ru
+    - ad.ozone.ru
+    - adv.ozon.ru
+    - agency-adv.ozon.ru
+    - analytics-adv.ozon.ru
+    - beginners-adv.ozon.ru
+    - google-analytics-suite.ozon.ru
+    - loyalnost-adv.ozon.ru
+    - new-adv.ozon.ru
+    - prodvizhenie-adv.ozon.ru
+    - questions-adv.ozon.ru
+    - sentry.ozon.ru
+    - xapi.ozon.by
+    - xapi.ozon.com
+    - xapi.ozon.com.by
+    - xapi.ozon.com.kz
+    - xapi.ozon.kz
+    - xapi.ozon.ru
+    - xapi.ozonru.me
+    - ads-gate.wildberries.ru
+    - ads-media.wildberries.ru
+    - ads.wildberries.ru
+    - advert-api.wb.ru
+    - advert-api-sandbox.wb.ru
+    - advert-media-api.wb.ru
+    - advert-api.wildberries.ru
+    - advert-api-sandbox.wildberries.ru
+    - advert-media-api.wildberries.ru
+    - analytics-stage.wildberries.ru
+    - analytics.wildberries.ru
+    - marketing-info.wildberries.ru
+    - marketplace-sentry.wb.ru
+    - sentry.wb.ru
+    - web-analytics.wildberries.ru
+    - api-eu.carrotquest.app
+    - api-eu.carrotquest.io
+    - api-ru.carrotquest.app
+    - api-ru.carrotquest.io
+    - api-secure.carrotquest.app
+    - api-secure.carrottrack.app
+    - api.carrotquest.app
+    - api.carrotquest.io
+    - api.carrottrack.app
+    - api.dashly.app
+    - api.dashlytrack.app
     - +.kaspersky.com.cn
     - activation-v2.kaspersky.com
     - activation-v2.geo.kaspersky.com
@@ -1103,65 +1084,85 @@ payload:
     - s17.upd.kaspersky.com
     - s18.upd.kaspersky.com
     - s19.upd.kaspersky.com
-    - +.e.mindbox.ru
-    - +.g.mindbox.ru
-    - +.s.mindbox.ru
-    - api-js.mindbox.ru
-    - api-ru.mindbox.cloud
-    - api-staging.mindbox.ru
-    - api.mindbox.cloud
-    - api.mindbox.ru
-    - sentry.mindbox.ru
-    - sentry.popmechanic.ru
-    - api-eu.carrotquest.app
-    - api-eu.carrotquest.io
-    - api-ru.carrotquest.app
-    - api-ru.carrotquest.io
-    - api-secure.carrotquest.app
-    - api-secure.carrottrack.app
-    - api.carrotquest.app
-    - api.carrotquest.io
-    - api.carrottrack.app
-    - api.dashly.app
-    - api.dashlytrack.app
-    - ad.ozone.ru
-    - adv.ozon.ru
-    - agency-adv.ozon.ru
-    - analytics-adv.ozon.ru
-    - beginners-adv.ozon.ru
-    - google-analytics-suite.ozon.ru
-    - loyalnost-adv.ozon.ru
-    - new-adv.ozon.ru
-    - prodvizhenie-adv.ozon.ru
-    - questions-adv.ozon.ru
-    - sentry.ozon.ru
-    - xapi.ozon.by
-    - xapi.ozon.com
-    - xapi.ozon.com.by
-    - xapi.ozon.com.kz
-    - xapi.ozon.kz
-    - xapi.ozon.ru
-    - xapi.ozonru.me
-    - ads-gate.wildberries.ru
-    - ads-media.wildberries.ru
-    - ads.wildberries.ru
-    - advert-api.wb.ru
-    - advert-api-sandbox.wb.ru
-    - advert-media-api.wb.ru
-    - advert-api.wildberries.ru
-    - advert-api-sandbox.wildberries.ru
-    - advert-media-api.wildberries.ru
-    - analytics-stage.wildberries.ru
-    - analytics.wildberries.ru
-    - marketing-info.wildberries.ru
-    - marketplace-sentry.wb.ru
-    - sentry.wb.ru
-    - web-analytics.wildberries.ru
-    - stats.avito.ru
-    - metrika.kontur.ru
-    - sentry.kontur.host
+    - +.ad.mail.ru
+    - +.ads.viqeo.tv
+    - +.adsadvisor.io
+    - +.alt-ad.mail.ru
+    - +.apptracer.ru
+    - +.cxhub.ru
+    - +.metrics.viqeo.tv
+    - +.myadx.net
+    - +.r.mail.ru
+    - +.radar.imgsmail.ru
+    - +.relap.mail.ru
+    - +.target.my.com
+    - +.top-fwz1.mail.ru
+    - +.trace-flow.ru
+    - +.tracker-api.my.com
+    - +.tracker.my.com
+    - 1l-hit.mail.ru
+    - 1l-hit.vkplay.ru
+    - ad4.mail.ru
+    - ads-integration.rustore.ru
+    - ads.dahlmessenger.com
+    - ads.icq.com
+    - ads.rustore.ru
+    - adsapp.dahlmessenger.com
+    - adsapp.telega.info
+    - adsapp.stage.telega.info
+    - adv.rustore.ru
+    - alt-r.my.com
+    - an.mail.ru
+    - b2.mail.ru
+    - bs.mail.ru
+    - click.rustore.ru
+    - pixel.rustore.ru
+    - r0.mail.ru
+    - r0.mradx.net
+    - r1.mail.ru
+    - reklama.mail.ru
+    - rs.mail.ru
+    - sentry-ng.g.smailru.net
+    - srch-telemeter10.g.smailru.net
+    - sentry.dev-my.com
+    - sentry.dev-my.games
+    - sentry.rustore.ru
+    - sentry.viqeo.tv
+    - stacks.vk-portal.net
+    - stats.dahlmessenger.com
+    - stats.dev.telega.info
+    - stats.rustore.ru
+    - stats.telega.info
+    - t.mail.ru
+    - top-staging.mail.ru
+    - whiteline.mail.ru
+    - xray.mail.ru
+    - +.log.dzen.ru
+    - +.ms.dzen.ru
+    - +.adv.vk.com
+    - +.analytics.vk.com
+    - +.ms.vk.com
+    - +.ms.vk.ru
+    - +.target.vk.ru
+    - +.vk-analytics.ru
+    - adblogger.vk.com
+    - adblogger.vk.ru
+    - ads.vk.com
+    - ads.vk.ru
+    - adv.vk.ru
+    - advk.vk.ru
+    - analytics.vk.ru
+    - stats.vk-portal.net
+    - target.vk.com
     - +.a.mts.ru
     - +.obs.mts.ru
+    - +.neon.click
+    - +.sbermarketing.ru
+    - error-tracking.megamarket.tech
+    - metrics.21-school.ru
+    - sentry.sberauto.com
+    - tracing-http.megamarket.tech
     - +.ads.sber.ru
     - +.clickstream.sberbank.ru
     - visor.sberbank.ru
+    - sentry.iptv.rt.ru

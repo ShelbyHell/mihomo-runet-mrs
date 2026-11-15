@@ -1,5 +1,5 @@
 Source repository: https://github.com/runetfreedom/russia-v2ray-rules-dat (branch release)
-Source snapshot:   b8e731c622b7dc4e22da96c1be1a51a912b720c1
+Source snapshot:   dd3b07c9f2ef4a380b699538a37ba5ddedfa3105
 
 Converter repository: https://github.com/MetaCubeX/meta-rules-converter
 Converter commit:     7dea27841a3579a633189830c98c08a0434e8b79
@@ -8,5 +8,5 @@ GeoSite MRS files: 2016
 GeoIP MRS files:   266
 Skipped empty MRS: 9
 
-geoip.dat SHA256:   b3fdc5e24ac7d6620f2bd47e743610c78637efde68796e7ea339fee5852df500
-geosite.dat SHA256: 3472727d09b4541ee21c9d3ddf413fbeb91e80ce1d11775e880fd25a30ca32d6
+geoip.dat SHA256:   50a6aa0e5b2e37c42e64a12c8fd312cb7ff09a248e07079dec18b766d10277c0
+geosite.dat SHA256: 9a9feb3a47e0bc43e5c1504d4506778f8149752d0b8c1c8d2da18e8cfbf85d8b

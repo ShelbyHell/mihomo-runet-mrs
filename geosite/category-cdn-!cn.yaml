@@ -1,15 +1,12 @@
 payload:
-    - +.browser.run
-    - +.akamaistream.net
+    - +.b-cdn.net
+    - +.bunny.net
     - +.bunnycdn.com
     - +.cdnjs.com
     - +.esm.sh
     - +.gcdn.co
     - +.gcore.com
-    - +.argotunnel.com
-    - +.vrcdn.cloud
-    - +.vrcdn.live
-    - +.vrcdn.video
+    - +.gcore.pro
     - +.ak1.net
     - +.aka-ai.com
     - +.aka-ai.net
@@ -60,7 +57,7 @@ payload:
     - +.akamaitechnologies.com
     - +.akamaitechnologies.net
     - +.akamaisingapore.net
-    - +.b-cdn.net
+    - +.akamaistream.net
     - +.akamaized-staging.net
     - +.akamaized.net
     - +.akamaizercentral.com
@@ -78,10 +75,11 @@ payload:
     - +.iamakamai.net
     - +.soasta-dswb.com
     - +.srtcdn.net
-    - +.llnwi.net
-    - +.gcore.pro
-    - +.bunny.net
     - +.cdn77.com
+    - +.cdn77.org
+    - +.argotunnel.com
+    - +.browser.run
+    - +.cfargotunnel.com
     - +.cfdata.org
     - +.cfl.re
     - +.cloudflare-dns.com
@@ -134,7 +132,17 @@ payload:
     - +.workers.dev
     - +.cf-ipfs.com
     - +.cloudflare-ipfs.com
+    - +.imgix.com
+    - +.imgix.net
+    - +.delvenetworks.com
+    - +.limelight.com
+    - +.lldns.net
+    - +.llnw-trials.com
+    - +.llnw.com
+    - +.llnw.net
     - +.llnwd.net
+    - +.llnwi.net
+    - +.quantil.com
     - +.fastly-edge.com
     - +.fastly-terrarium.com
     - +.fastly.com
@@ -147,21 +155,13 @@ payload:
     - +.jsdelivr.net
     - +.pagecdn.com
     - +.pagecdn.io
-    - +.quantil.com
     - +.stackpath.com
     - +.stackpath.dev
-    - +.cfargotunnel.com
-    - +.cdn77.org
-    - +.imgix.com
-    - +.imgix.net
-    - +.delvenetworks.com
-    - +.limelight.com
-    - +.lldns.net
-    - +.llnw-trials.com
-    - +.llnw.com
-    - +.llnw.net
-    - +.one.one.one
+    - +.vrcdn.cloud
+    - +.vrcdn.live
+    - +.vrcdn.video
     - +.akamai.co.kr
+    - +.one.one.one
     - +.accdn.com.cn
     - +.akadns88.net
     - +.akadns99.net
