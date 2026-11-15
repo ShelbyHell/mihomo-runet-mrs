@@ -90,8 +90,8 @@ payload:
     - scholar.googleusercontent.com
     - scholar.l.google.com
     - +.mit
-    - +.cambridgedigital.net
-    - +.clarivate.com
+    - +.ieee-edusociety.org
+    - +.z-lib.fm
     - +.acs.org
     - +.agu.org
     - +.aiaa.org
@@ -131,7 +131,7 @@ payload:
     - +.brill.com
     - +.bvdinfo.com
     - +.cairn.info
-    - +.cambridge.org
+    - +.ieee-ies.org
     - +.cas.org
     - +.ceicdata.com
     - +.chemnetbase.com
@@ -165,14 +165,14 @@ payload:
     - +.hindawi.com
     - +.hotcrp.com
     - +.icevirtuallibrary.com
-    - +.taylorfrancis.com
-    - +.taylorandfrancis.com
-    - +.tandfonline.com
-    - +.isiknowledge.com
+    - +.zlibcdn.com
+    - +.zlib.life
+    - +.z-library.se
+    - +.z-library.sk
     - +.igi-global.com
     - +.igpublish.com
-    - +.newisiknowledge.com
-    - +.webofscience.com
+    - +.booksc.xyz
+    - +.z-lib.gl
     - +.informs.org
     - +.ioinformatics.org
     - +.iop.org
@@ -184,11 +184,11 @@ payload:
     - +.jmlr.org
     - +.jneurosci.org
     - +.jove.com
-    - +.webofknowledge.com
+    - +.z-lib.gd
     - +.jstor.org
     - +.karger.com
     - +.kuke.com
-    - +.cambridgeschoolshakespeare.com
+    - +.ieee-ims.org
     - +.lexisnexis.com
     - +.literatumonline.com
     - +.mdpi.com
@@ -196,11 +196,11 @@ payload:
     - +.morganclaypool.com
     - +.nature.com
     - +.naturemag.org
-    - +.proquest.com
-    - +.serialssolutions.com
+    - +.singlelogin.site
+    - +.singlelogin.re
     - +.nejm.org
     - +.neurology.org
-    - +.mitpressjournals.org
+    - +.singlelogin.me
     - +.oecd-ilibrary.org
     - +.openreview.net
     - +.optica.org
@@ -250,8 +250,112 @@ payload:
     - +.worldscientific.com
     - +.yale.edu
     - +.zenodo.org
-    - +.sciencedirect.com
-    - +.sciencedirectassets.com
+    - +.aclweb.org
+    - +.mit.edu
+    - +.mit.net
+    - +.mitpressjournals.org
+    - +.serialssolutions.com
+    - +.proquest.com
+    - +.ieee.org
+    - +.ieee.tv
+    - +.tryengineering.org
+    - +.ieee-ccnc.org
+    - +.ieee-ecce.org
+    - +.ieeemce.org
+    - +.standardsuniversity.org
+    - +.ieee-region6.org
+    - +.ieee.ca
+    - +.ieeer10.org
+    - +.ieeer5.org
+    - +.ieeer8.org
+    - +.ieeeusa.org
+    - +.ieeefoundation.org
+    - +.ieee-into-focus.org
+    - +.ieee-vics.org
+    - +.ieeeday.org
+    - +.datasheets360.com
+    - +.globalspec.com
+    - +.ieee-isto.org
+    - +.techstreet.com
+    - +.computer.org
+    - +.comsoc.org
+    - +.embs.org
+    - +.emcs.org
+    - +.grss-ieee.org
+    - +.ieee-aess.org
+    - +.ieee-cas.org
+    - +.ieee-ceda.org
+    - +.aacrjournals.org
+    - +.capitaliq.com
+    - +.acm.org
+    - +.1lib.pl
+    - +.ieee-pels.org
+    - +.ieee-pes.org
+    - +.ieee-ras.org
+    - +.ieee-sensors.org
+    - +.ieee-tems.org
+    - +.ieee-uffc.org
+    - +.ieeeaps.org
+    - +.ieeecsc.org
+    - +.ieeecss.org
+    - +.ieeedeis.org
+    - +.ieeemagnetics.org
+    - +.ieeenano.org
+    - +.ieeeoes.org
+    - +.ieeesmc.org
+    - +.ieeesystemscouncil.org
+    - +.itsoc.org
+    - +.mtt.org
+    - +.photonicssociety.org
+    - +.signalprocessingsociety.org
+    - +.technologyandsociety.org
+    - +.vtsociety.org
+    - +.sci-hub.se
+    - +.sci-hub.ee
+    - +.sci-hub.st
+    - +.singlelogin.app
+    - +.sg1lib.org
+    - +.ma1lib.org
+    - +.apress.com
+    - +.springer.com
+    - +.springerlink.com
+    - +.springernature.com
+    - +.wkap.nl
+    - +.xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
+    - +.cityu.hk
+    - +.hkust.hk
+    - +.xn--fiq80y.hk
+    - +.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+    - +.xn--pssu7cv61af44b.xn--j6w193g
+    - +.polyu.hk
+    - +.xn--fiq80y.xn--j6w193g
+    - +.xn--pssu7cv61af44b.hk
+    - +.hku.hk
+    - +.xn--pssu7ci3q5oge0ai91q.xn--j6w193g
+    - +.eduhk.hk
+    - +.xn--uis44a.xn--j6w193g
+    - +.xn--fiq80y3xbiwr.hk
+    - +.hkbu.hk
+    - +.cuhk.hk
+    - +.xn--pssu7ci2j23mp9ny48b.hk
+    - +.xn--wcvs22d.xn--j6w193g
+    - +.edu.hk
+    - +.xn--fiq80y3xbiwr.xn--j6w193g
+    - +.xn--fiq80y3xbiwrs0kiu9d.hk
+    - +.xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
+    - +.1lib.cloud
+    - +.libsolutions.domains
+    - +.libsolutions.app
+    - +.hk1lib.org
+    - +.zlibcdn2.com
+    - +.de1lib.org
+    - +.bookshome.world
+    - +.bookshome.net
+    - +.libsolutions.net
+    - +.1lib.cz
+    - +.b-ok.asia
+    - +.doi.org
+    - +.doi.info
     - +.oxfordreference.com
     - +.amamanualofstyle.com
     - +.oxfordscholarlyeditions.com
@@ -285,21 +389,24 @@ payload:
     - +.livinno.org
     - +.opac-project.eu
     - +.cambridgemaths.org
-    - +.aacrjournals.org
-    - +.capitaliq.com
-    - +.acm.org
-    - +.ieee-cas.org
-    - +.mit.net
-    - +.mit.edu
-    - +.aclweb.org
-    - +.vtsociety.org
-    - +.technologyandsociety.org
-    - +.signalprocessingsociety.org
-    - +.photonicssociety.org
+    - +.cambridgedigital.net
+    - +.cambridge.org
+    - +.cambridgeschoolshakespeare.com
+    - +.booksc.me
+    - +.booksc.eu
+    - +.bookfi.net
+    - +.book4you.org
+    - +.b-ok.org
+    - +.b-ok.global
+    - +.b-ok.cc
+    - +.booksc.org
     - +.apa.org
     - +.psyccareers.com
-    - +.doi.org
-    - +.doi.info
+    - +.clarivate.com
+    - +.webofknowledge.com
+    - +.webofscience.com
+    - +.newisiknowledge.com
+    - +.isiknowledge.com
     - +.cell.com
     - +.clinicalkey.com
     - +.els-cdn.com
@@ -314,98 +421,12 @@ payload:
     - +.reaxys.com
     - +.scival.com
     - +.scopus.com
-    - +.sci-hub.se
-    - +.sci-hub.ee
-    - +.sci-hub.st
-    - +.mtt.org
-    - +.itsoc.org
-    - +.ieeesystemscouncil.org
-    - +.apress.com
-    - +.springer.com
-    - +.springerlink.com
-    - +.springernature.com
-    - +.wkap.nl
-    - +.bookshome.info
-    - +.z-lib.org
-    - +.1lib.domains
-    - +.1lib.education
-    - +.1lib.eu
-    - +.1lib.limited
-    - +.1lib.pl
-    - +.1lib.sk
-    - +.1lib.to
-    - +.1lib.tw
-    - +.2lib.org
-    - +.3lib.net
-    - +.art1lib.com
+    - +.sciencedirect.com
+    - +.sciencedirectassets.com
+    - +.tandfonline.com
+    - +.taylorandfrancis.com
+    - +.taylorfrancis.com
     - +.b-ok.africa
-    - +.booksc.org
-    - +.b-ok.cc
-    - +.b-ok.global
-    - +.b-ok.org
-    - +.book4you.org
-    - +.bookfi.net
-    - +.booksc.eu
-    - +.booksc.me
-    - +.b-ok.asia
-    - +.1lib.cz
-    - +.libsolutions.net
-    - +.bookshome.net
-    - +.bookshome.world
-    - +.de1lib.org
-    - +.zlibcdn2.com
-    - +.hk1lib.org
-    - +.libsolutions.app
-    - +.libsolutions.domains
-    - +.1lib.cloud
-    - +.ma1lib.org
-    - +.sg1lib.org
-    - +.singlelogin.app
-    - +.singlelogin.me
-    - +.singlelogin.re
-    - +.singlelogin.site
-    - +.z-lib.fm
-    - +.z-lib.gd
-    - +.z-lib.gl
-    - +.booksc.xyz
-    - +.z-library.sk
-    - +.z-library.se
-    - +.zlib.life
-    - +.zlibcdn.com
-    - +.ieeesmc.org
-    - +.xn--fiq80y3xbiwrs0kiu9d.hk
-    - +.hku.hk
-    - +.polyu.hk
-    - +.edu.hk
-    - +.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-    - +.xn--pssu7ci2j23mp9ny48b.hk
-    - +.hkust.hk
-    - +.xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
-    - +.xn--uis44a.xn--j6w193g
-    - +.xn--pssu7cv61af44b.xn--j6w193g
-    - +.xn--pssu7cv61af44b.hk
-    - +.cuhk.hk
-    - +.xn--fiq80y.hk
-    - +.xn--wcvs22d.xn--j6w193g
-    - +.xn--fiq80y3xbiwr.hk
-    - +.xn--fiq80y3xbiwr.xn--j6w193g
-    - +.xn--pssu7ci3q5oge0ai91q.xn--j6w193g
-    - +.cityu.hk
-    - +.xn--fiq80y.xn--j6w193g
-    - +.eduhk.hk
-    - +.xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
-    - +.hkbu.hk
-    - +.ieeeoes.org
-    - +.ieeenano.org
-    - +.ieeemagnetics.org
-    - +.ieeedeis.org
-    - +.ieeecss.org
-    - +.ieeecsc.org
-    - +.ieeeaps.org
-    - +.ieee-uffc.org
-    - +.ieee-tems.org
-    - +.ieee-sensors.org
-    - +.ieee-ras.org
     - +.ac.ir
     - +.edu.ir
     - +.iranlms.ir
@@ -414,47 +435,26 @@ payload:
     - +.sharif.edu
     - +.sharif.ir
     - +.srttu.edu
-    - +.ieee-pes.org
-    - +.ieee.org
-    - +.ieee.tv
-    - +.tryengineering.org
-    - +.ieee-ccnc.org
-    - +.ieee-ecce.org
-    - +.ieeemce.org
-    - +.standardsuniversity.org
-    - +.ieee-region6.org
-    - +.ieee.ca
-    - +.ieeer10.org
-    - +.ieeer5.org
-    - +.ieeer8.org
-    - +.ieeeusa.org
-    - +.ieeefoundation.org
-    - +.ieee-into-focus.org
-    - +.ieee-vics.org
-    - +.ieeeday.org
-    - +.datasheets360.com
-    - +.globalspec.com
-    - +.ieee-isto.org
-    - +.techstreet.com
-    - +.computer.org
-    - +.comsoc.org
-    - +.embs.org
-    - +.emcs.org
-    - +.grss-ieee.org
-    - +.ieee-aess.org
-    - +.ieee-pels.org
-    - +.ieee-ceda.org
-    - +.ieee-edusociety.org
-    - +.ieee-ies.org
-    - +.ieee-ims.org
+    - +.art1lib.com
+    - +.bookshome.info
+    - +.z-lib.org
+    - +.1lib.domains
+    - +.1lib.education
+    - +.1lib.eu
+    - +.1lib.limited
     - +.ieee-npss.org
+    - +.1lib.sk
+    - +.1lib.to
+    - +.1lib.tw
+    - +.2lib.org
+    - +.3lib.net
     - +.academic.eb.com
-    - +.sci-hub.it.nf
     - +.dln1.ncdn.ec
+    - +.dlib.eastview.com
+    - +.tandf.co.uk
     - +.sci.hubg.org
     - +.sci-hub.mksa.top
-    - +.tandf.co.uk
-    - +.dlib.eastview.com
+    - +.sci-hub.it.nf
     - +.nii.ac.jp
     - +.ncl.edu.tw
     - +.lawdata.com.tw
