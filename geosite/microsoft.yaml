@@ -40,14 +40,17 @@ payload:
     - copilotprodattachments.blob.core.windows.net
     - az764295.vo.msecnd.net
     - bingsettingssearch.trafficmanager.net
+    - builds.dotnet.microsoft.com
     - default.exp-tas.com
     - developer.microsoft.com
+    - dotnetcli.trafficmanager.net
     - dtlgalleryint.cloudapp.net
     - packages.microsoft.com
     - poshtestgallery.cloudapp.net
     - psg-int-centralus.cloudapp.net
     - psg-int-eastus.cloudapp.net
     - rink.hockeyapp.net
+    - sundry-star-net-geo.trafficmanager.net
     - vscode-sync-insiders.trafficmanager.net
     - vscode-sync.trafficmanager.net
     - vscode.blob.core.windows.net
@@ -364,10 +367,10 @@ payload:
     - +.opensource.guide
     - +.repo.new
     - +.thegithubshop.com
+    - +.githubcopilot.com
     - +.npm.community
     - +.npmjs.com
     - +.npmjs.org
-    - +.githubcopilot.com
     - +.adaptivecards.io
     - +.api-extractor.com
     - +.apisof.net
@@ -476,10 +479,6 @@ payload:
     - +.xboxservices.com
     - +.xboxstudios.com
     - +.xbx.lv
-    - +.forza.net
-    - +.forzamotorsport.net
-    - +.forzaracingchampionship.com
-    - +.forzarc.com
     - +.callersbane.com
     - +.minecraft-services.net
     - +.minecraft.net
@@ -492,6 +491,10 @@ payload:
     - +.bethsoft.com
     - +.doom.com
     - +.elderscrolls.com
+    - +.forza.net
+    - +.forzamotorsport.net
+    - +.forzaracingchampionship.com
+    - +.forzarc.com
     - +.microsoft.az
     - +.aadrm.com
     - +.azure-api.net
@@ -638,7 +641,6 @@ payload:
     - surface.downloads.prss.microsoft.com
     - vlportal.download.prss.microsoft.com
     - volic.download.prss.microsoft.com
-    - vscode.download.prss.microsoft.com
     - vz.download.prss.microsoft.com
     - windbg.download.prss.microsoft.com
     - +.bing.com.cn
@@ -660,6 +662,7 @@ payload:
     - dc.services.visualstudio.com
     - download.visualstudio.microsoft.com
     - rt.services.visualstudio.com
+    - vscode.download.prss.microsoft.com
     - +.microsoftnews.cn
     - +.msn.cn
     - +.browser.events.data.msn.cn

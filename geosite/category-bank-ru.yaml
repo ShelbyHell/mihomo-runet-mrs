@@ -2,7 +2,7 @@ payload:
     - edu.tinkoff.ru
     - education.tbank.ru
     - +.novikom.ru
-    - +.alfabank.ru
+    - +.babki.ru
     - +.alfabank.st
     - +.alfadirect.ru
     - +.myapelsin.ru
@@ -45,7 +45,7 @@ payload:
     - +.otpbank.ru
     - +.pervbank.ru
     - +.prvbank.ru
-    - +.alfa.me
+    - +.pvubank.com
     - +.payment.ru
     - +.psb-ocenka.ru
     - +.psb.ru
@@ -60,7 +60,7 @@ payload:
     - +.home.bank
     - +.homecredit.ru
     - +.hva.im
-    - +.ns-bank.ru
+    - +.scb.ru
     - +.sovcombank.ru
     - +.itb.ru
     - +.tkbbank.ru
@@ -83,10 +83,12 @@ payload:
     - +.vtbbo.ru
     - +.vtbglobalperspectives.com
     - +.xn--90ab2c.xn--p1ai
+    - +.yandex-bank.net
+    - +.yb-payment.ru
     - +.credit-zenit.ru
     - +.zenit-card.ru
     - +.zenit.ru
-    - +.asia-pay.ru
+    - +.alfa.me
     - +.best2pay.net
     - +.koronapay.com
     - +.moneta.ru
@@ -150,7 +152,7 @@ payload:
     - +.finstarbank.ru
     - +.forabank.ru
     - +.tinkoff-edu.ru
-    - +.forshtadt.ru
+    - +.ns-bank.ru
     - +.gaztransbank.ru
     - +.gebank.ru
     - +.genbank.ru
@@ -175,9 +177,9 @@ payload:
     - +.nipbank.ru
     - +.noosferabank.ru
     - +.norvikbank.ru
-    - +.pvubank.com
-    - +.novobank.ru
-    - +.scb.ru
+    - +.asia-pay.ru
+    - +.alfabank.ru
+    - +.forshtadt.ru
     - +.nskbl.ru
     - +.okbank.ru
     - +.orbank.ru
@@ -251,7 +253,7 @@ payload:
     - +.4epenaxa.com
     - +.atomyze.ru
     - +.atomyze.tech
-    - +.babki.ru
+    - +.novobank.ru
     - +.bankline.ru
     - +.booking-tec.ru
     - +.capitalt.ru

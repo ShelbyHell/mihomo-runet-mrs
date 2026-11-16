@@ -3,14 +3,14 @@ payload:
     - kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
     - +.yandex
     - +.yandex.kg
-    - +.yangofellowship.com
+    - +.yandex.lv
     - +.beru.ru
     - +.bookmate.ru
     - +.cabconnect.org
     - +.clck.ru
     - +.clstorage.net
     - +.delivery-club.ru
-    - +.yandex.kz
+    - +.driveawaytaxi.org
     - +.edadeal.ru
     - +.elama.ru
     - +.foodfox.ru
@@ -26,7 +26,7 @@ payload:
     - +.rutaxi.ru
     - +.shedevrum.ai
     - +.shedevrum.com
-    - +.shedevrum.ru
+    - +.yandex.kz
     - +.sourcecraft.dev
     - +.static-storage.net
     - +.support-uber.com
@@ -37,7 +37,7 @@ payload:
     - +.turbopages.org
     - +.vezet.ru
     - +.ya.cc
-    - +.ya.ru
+    - +.yandex.lt
     - +.yadi.sk
     - +.yandex-bank.net
     - +.yandex-team.com
@@ -56,27 +56,27 @@ payload:
     - +.yndx.net
     - +.yandex.fr
     - +.yandex.it
-    - +.yandex.taxi
+    - +.yandex.jobs
+    - +.xn--d1acpjx3f.xn--p1ai
+    - +.shedevrum.ru
     - +.berizaryad.ru
-    - +.driveawaytaxi.org
-    - +.yandex.lt
-    - +.yandex.lv
+    - +.ya.ru
     - +.yandex.market
     - +.yandex.md
     - +.yandex.mobi
     - +.yandex.net
     - +.ydb.tech
     - +.yccdn.ru
+    - +.yb-payment.ru
     - +.yastatic.net
     - +.yastatic-net.ru
-    - +.yastat.net
     - +.yandex.org
     - +.yandex.pl
     - +.yandex.pro
     - +.yandex.ru
     - +.yandex.st
     - +.yandex.sx
-    - +.yandex.jobs
+    - +.yandex.taxi
     - +.yandex.tj
     - +.yandex.tm
     - +.yandex.tr
@@ -98,12 +98,13 @@ payload:
     - +.yango.africa
     - +.yango.ao
     - +.yango.bh
-    - +.xn--d1acpjx3f.xn--p1ai
+    - +.yastat.net
     - +.yango.com
     - +.yango.fi
     - +.yango.qa
     - +.yango.taxi
     - +.yango.tech
+    - +.yangofellowship.com
     - +.yango.co.il
     - +.yandex.net.ru
     - +.yandex.com.ua

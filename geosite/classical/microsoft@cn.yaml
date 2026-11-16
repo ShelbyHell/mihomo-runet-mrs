@@ -81,7 +81,6 @@ payload:
     - DOMAIN,surface.downloads.prss.microsoft.com
     - DOMAIN,vlportal.download.prss.microsoft.com
     - DOMAIN,volic.download.prss.microsoft.com
-    - DOMAIN,vscode.download.prss.microsoft.com
     - DOMAIN,vz.download.prss.microsoft.com
     - DOMAIN,windbg.download.prss.microsoft.com
     - DOMAIN-SUFFIX,bing.com.cn
@@ -96,6 +95,7 @@ payload:
     - DOMAIN-SUFFIX,microsoftreactor.com.cn
     - DOMAIN-SUFFIX,reactorms.com.cn
     - DOMAIN,download.visualstudio.microsoft.com
+    - DOMAIN,vscode.download.prss.microsoft.com
     - DOMAIN-SUFFIX,microsoftnews.cn
     - DOMAIN-SUFFIX,msn.cn
     - DOMAIN-SUFFIX,xboxlive.cn
