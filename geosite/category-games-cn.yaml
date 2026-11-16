@@ -49,12 +49,13 @@ payload:
     - +.ycgame.com
     - +.yjwujian.cn
     - +.yysls.cn
-    - +.bilibiligame.cn
-    - +.bilibiligame.co
-    - +.bilibiligame.net
-    - +.biligame.co
-    - +.biligame.com
-    - +.biligame.net
+    - +.17173.com
+    - +.17173cdn.com
+    - +.changyou.com
+    - +.cy.com
+    - +.playcool.com
+    - +.yeyou.com
+    - +.yeyoucdn.com
     - +.seasungames.cn
     - +.seasungames.com
     - +.seasunwbl.com
@@ -63,6 +64,19 @@ payload:
     - +.xoyocdn.com
     - +.cbjq.com
     - +.testplus.cn
+    - +.dobest.com
+    - +.langrenclub.com
+    - +.sanguosha.com
+    - +.xhlsgs.com
+    - +.xinwuji.com
+    - +.yokaverse.com
+    - +.zhuoyou.com
+    - +.9game.cn
+    - +.aligames.com
+    - +.jiaoyimao.cn
+    - +.jiaoyimao.com
+    - +.lingxigames.com
+    - +.sl916.com
     - +.3304399.com
     - +.3304399.net
     - +.3839.com
@@ -126,37 +140,17 @@ payload:
     - +.yxhapi.com
     - +.yxhhdl.com
     - +.yxhimg.com
-    - +.17173.com
-    - +.17173cdn.com
-    - +.changyou.com
-    - +.cy.com
-    - +.playcool.com
-    - +.yeyou.com
-    - +.yeyoucdn.com
+    - +.vrzwk.cn
+    - +.vrzwk.com
+    - +.vrzwk.net
+    - +.vrzwk.top
     - +.cowlevel.net
     - +.cdncl.net
-    - +.dobest.com
-    - +.langrenclub.com
-    - +.sanguosha.com
-    - +.xhlsgs.com
-    - +.xinwuji.com
-    - +.yokaverse.com
-    - +.zhuoyou.com
-    - +.sl916.com
     - +.hero.com
     - +.herogame.com
     - +.heroesports.com
     - +.shyxhy.com
     - +.yingxiong.com
-    - +.vrzwk.cn
-    - +.vrzwk.com
-    - +.vrzwk.net
-    - +.vrzwk.top
-    - +.9game.cn
-    - +.aligames.com
-    - +.jiaoyimao.cn
-    - +.jiaoyimao.com
-    - +.lingxigames.com
     - +.mhystatic.com
     - +.mhyurl.cn
     - +.mihayo.com
@@ -174,6 +168,12 @@ payload:
     - +.juequling.com
     - +.tiancity.com
     - +.tiancitycdn.com
+    - +.bilibiligame.cn
+    - +.bilibiligame.co
+    - +.bilibiligame.net
+    - +.biligame.co
+    - +.biligame.com
+    - +.biligame.net
     - +.37.com.cn
     - +.nikkigames.com.cn
     - +.log-upload.mihoyo.com

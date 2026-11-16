@@ -6,6 +6,11 @@
 +.gcdn.co
 +.gcore.com
 +.gcore.pro
++.esm.run
++.jsdelivr.com
++.jsdelivr.net
++.stackpath.com
++.stackpath.dev
 +.fastly-edge.com
 +.fastly-terrarium.com
 +.fastly.com
@@ -15,9 +20,6 @@
 +.fastlylb.net
 +.imgix.com
 +.imgix.net
-+.esm.run
-+.jsdelivr.com
-+.jsdelivr.net
 +.delvenetworks.com
 +.limelight.com
 +.lldns.net
@@ -26,9 +28,9 @@
 +.llnw.net
 +.llnwd.net
 +.llnwi.net
-+.vrcdn.cloud
-+.vrcdn.live
-+.vrcdn.video
++.pagecdn.com
++.pagecdn.io
++.quantil.com
 +.ak1.net
 +.aka-ai.com
 +.aka-ai.net
@@ -99,9 +101,6 @@
 +.srtcdn.net
 +.cdn77.com
 +.cdn77.org
-+.quantil.com
-+.stackpath.com
-+.stackpath.dev
 +.argotunnel.com
 +.browser.run
 +.cfargotunnel.com
@@ -157,8 +156,9 @@
 +.workers.dev
 +.cf-ipfs.com
 +.cloudflare-ipfs.com
-+.pagecdn.com
-+.pagecdn.io
++.vrcdn.cloud
++.vrcdn.live
++.vrcdn.video
 +.akamai.co.kr
 +.one.one.one
 +.accdn.com.cn

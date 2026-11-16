@@ -966,6 +966,8 @@ Generated automatically from the latest conversion output.
 - `hupun.mrs`
 - `hurricaneelectric.mrs`
 - `huya.mrs`
+- `hypergryph.mrs`
+- `hypergryph@!cn.mrs`
 - `ibkr.mrs`
 - `ibm.mrs`
 - `icable.mrs`
