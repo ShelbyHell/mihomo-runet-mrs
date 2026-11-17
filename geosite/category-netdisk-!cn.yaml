@@ -1,29 +1,8 @@
 payload:
     - dropbox.zendesk.com
     - paper-attachments.s3.amazonaws.com
-    - +.1drv.com
-    - +.1drv.ms
-    - +.livefilestore.com
-    - +.onedrive.co
-    - +.onedrive.com
-    - +.onedrive.eu
-    - +.onedrive.net
-    - +.onedrive.org
-    - +.mypikpak.com
-    - +.mypikpak.net
-    - +.pickpackapp.com
-    - +.pikpak.io
-    - +.pikpak.me
-    - +.pikpakdrive.com
-    - +.1024terabox.com
-    - +.bestclouddrive.com
+    - +.megapay.nz
     - +.freeterabox.com
-    - +.nephobox.com
-    - +.terabox.com
-    - +.terabox1024.com
-    - +.teraboxcdn.com
-    - +.userdrive.org
-    - +.usersdrive.com
     - +.addtodropbox.com
     - +.dash.ai
     - +.db.tt
@@ -48,13 +27,34 @@ payload:
     - +.hellofax.com
     - +.hellosign.com
     - +.mega.io
-    - +.mega.nz
-    - +.megaad.nz
-    - +.megapay.nz
+    - +.terabox.com
+    - +.usersdrive.com
+    - +.livefilestore.com
     - +.megas4.com
     - +.transfer.it
-    - +.onedrive.co.uk
-    - +.onedrive.live.com
+    - +.teraboxcdn.com
+    - +.1drv.com
+    - +.1drv.ms
+    - +.userdrive.org
+    - +.onedrive.co
+    - +.onedrive.com
+    - +.onedrive.eu
+    - +.onedrive.net
+    - +.onedrive.org
+    - +.terabox1024.com
+    - +.mega.nz
+    - +.nephobox.com
+    - +.mypikpak.com
+    - +.mypikpak.net
+    - +.pickpackapp.com
+    - +.pikpak.io
+    - +.pikpak.me
+    - +.pikpakdrive.com
+    - +.1024terabox.com
+    - +.bestclouddrive.com
+    - +.megaad.nz
     - +.storage.live.com
+    - +.onedrive.live.com
+    - +.onedrive.co.uk
     - +.mega.co.nz
     - o4504926511693824.ingest.sentry.io

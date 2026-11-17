@@ -1,6 +1,15 @@
 payload:
-    - DOMAIN-SUFFIX,wbcontent.net
-    - DOMAIN-SUFFIX,etradebook.ru
+    - DOMAIN-SUFFIX,drom.ru
+    - DOMAIN-SUFFIX,rdrom.ru
+    - DOMAIN-SUFFIX,apiauto.ru
+    - DOMAIN-SUFFIX,auto.ru
+    - DOMAIN-SUFFIX,autoru.me
+    - DOMAIN-SUFFIX,avto.ru
+    - DOMAIN-SUFFIX,cm.expert
+    - DOMAIN-SUFFIX,avito.com
+    - DOMAIN-SUFFIX,avito.ru
+    - DOMAIN-SUFFIX,avito.st
+    - DOMAIN-SUFFIX,avito.tech
     - DOMAIN-SUFFIX,cian.ru
     - DOMAIN-SUFFIX,cian.site
     - DOMAIN-SUFFIX,ciangroup.ru
@@ -44,7 +53,7 @@ payload:
     - DOMAIN-SUFFIX,ozone.ru
     - DOMAIN-SUFFIX,ozonglobalevents.com
     - DOMAIN-SUFFIX,ozonpartners.by
-    - DOMAIN-SUFFIX,drom.ru
+    - DOMAIN-SUFFIX,ozonpartners.ru
     - DOMAIN-SUFFIX,ozonrocet.by
     - DOMAIN-SUFFIX,ozonroket.by
     - DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
@@ -56,7 +65,7 @@ payload:
     - DOMAIN-SUFFIX,ozonusercontent.com
     - DOMAIN-SUFFIX,digital-wb.ru
     - DOMAIN-SUFFIX,digitalwb.ru
-    - DOMAIN-SUFFIX,wbdubna.ru
+    - DOMAIN-SUFFIX,etradebook.ru
     - DOMAIN-SUFFIX,geobasket.ru
     - DOMAIN-SUFFIX,mp.world
     - DOMAIN-SUFFIX,onlyjobs.ru
@@ -81,9 +90,9 @@ payload:
     - DOMAIN-SUFFIX,wbautomation.ru
     - DOMAIN-SUFFIX,wbautomation.tech
     - DOMAIN-SUFFIX,wbbasket.ru
-    - DOMAIN-SUFFIX,ozonpartners.ru
-    - DOMAIN-SUFFIX,rdrom.ru
-    - DOMAIN-SUFFIX,wildbaries.ru
+    - DOMAIN-SUFFIX,wbcontent.net
+    - DOMAIN-SUFFIX,wbdubna.ru
+    - DOMAIN-SUFFIX,wbkids.ru
     - DOMAIN-SUFFIX,wbmail.ru
     - DOMAIN-SUFFIX,wbmotivator.ru
     - DOMAIN-SUFFIX,wbpay.ru
@@ -130,7 +139,7 @@ payload:
     - DOMAIN-SUFFIX,wilberies.ru
     - DOMAIN-SUFFIX,wilberris.ru
     - DOMAIN-SUFFIX,wilberry.ru
-    - DOMAIN-SUFFIX,wbkids.ru
+    - DOMAIN-SUFFIX,wildbaries.ru
     - DOMAIN-SUFFIX,wildbarries.ru
     - DOMAIN-SUFFIX,wildbeeries.ru
     - DOMAIN-SUFFIX,wildberdes.ru
@@ -152,20 +161,12 @@ payload:
     - DOMAIN-SUFFIX,wolfberries.ru
     - DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
     - DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
-    - DOMAIN-SUFFIX,apiauto.ru
-    - DOMAIN-SUFFIX,avito.tech
-    - DOMAIN-SUFFIX,avito.st
-    - DOMAIN-SUFFIX,avito.ru
-    - DOMAIN-SUFFIX,avito.com
-    - DOMAIN-SUFFIX,auto.ru
-    - DOMAIN-SUFFIX,autoru.me
-    - DOMAIN-SUFFIX,avto.ru
-    - DOMAIN-SUFFIX,cm.expert
-    - DOMAIN-SUFFIX,ewisdom.us.kg
-    - DOMAIN-SUFFIX,ozon.com.kz
-    - DOMAIN-SUFFIX,ozonru.co.il
     - DOMAIN-SUFFIX,ozon.com.by
+    - DOMAIN-SUFFIX,ozonru.co.il
+    - DOMAIN-SUFFIX,ozon.com.kz
+    - DOMAIN-SUFFIX,ewisdom.us.kg
     - DOMAIN-SUFFIX,wildberries.co.il
+    - DOMAIN,stats.avito.ru
     - DOMAIN,ad.ozone.ru
     - DOMAIN,adv.ozon.ru
     - DOMAIN,agency-adv.ozon.ru
@@ -199,4 +200,3 @@ payload:
     - DOMAIN,marketplace-sentry.wb.ru
     - DOMAIN,sentry.wb.ru
     - DOMAIN,web-analytics.wildberries.ru
-    - DOMAIN,stats.avito.ru

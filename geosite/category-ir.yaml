@@ -1,7 +1,7 @@
 payload:
     - +.ir
     - +.xn--mgba3a4f16a
-    - +.toplearn.com
+    - +.zarinpal.com
     - +.loxblog.com
     - +.niniweblog.com
     - +.rozblog.com
@@ -21,15 +21,84 @@ payload:
     - +.mahex.com
     - +.podro.com
     - +.tipaxco.com
+    - +.bimeonline.com
+    - +.dana-insurance.com
+    - +.dayins.com
+    - +.bimehasia.com
+    - +.bimeh.com
+    - +.novininsurance.com
+    - +.mellatinsurance.com
+    - +.sinainsurance.com
+    - +.cinematicket.org
+    - +.melodify.app
+    - +.melodify.pw
+    - +.telewebion.net
+    - +.aparat.com
+    - +.aparatkids.com
+    - +.aparatsport.com
+    - +.filimo.com
+    - +.filimo.school
+    - +.asriran.com
+    - +.eghtesadnews.com
+    - +.fararu.com
+    - +.hawzahnews.com
+    - +.iraneconomist.com
+    - +.mehrnews.com
+    - +.parsine.com
+    - +.qodsna.com
+    - +.blogfa.com
+    - +.sobhanehonline.com
+    - +.tasnimnews.com
+    - +.tejaratnews.com
+    - +.7sobh.com
+    - +.abrarnews.com
+    - +.donya-e-eqtesad.com
+    - +.ebtekarnews.com
+    - +.ettelaat.com
+    - +.financialtribune.com
+    - +.iran-newspaper.com
+    - +.khabarvarzeshi.com
+    - +.khorasannews.com
+    - +.resalat-news.com
+    - +.tehrantimes.com
+    - +.flightio.com
+    - +.mrbilit.com
+    - +.tap30.services
+    - +.tap33.me
+    - +.tapsi.cab
+    - +.cdnsnapptrip.com
+    - +.snapp-box.com
+    - +.snapp.cab
+    - +.snapp.doctor
+    - +.snapp.express
+    - +.snapp.ninja
+    - +.snapp.site
+    - +.snapp.supply
+    - +.snapp.taxi
+    - +.snapp.tech
+    - +.snappcloud.io
+    - +.snappfood.dev
+    - +.snapproom.com
+    - +.snapptrip.com
     - +.adivery.com
     - +.kaprila.com
     - +.najva.com
     - +.sabavision.com
     - +.yektanet.com
+    - +.asanpardakht.com
+    - +.bitbarg.me
+    - +.mydigipay.com
+    - +.behpardakht.com
+    - +.asanpardakht.net
+    - +.vandar.app
+    - +.vandar.io
+    - +.weswap.digital
     - +.mellatbroker.com
     - +.ok-ex.io
+    - +.quera.org
     - +.talarebourse.com
-    - +.abanbroker.com
+    - +.saat24.com
+    - +.blogsky.com
     - +.bahmanbroker.com
     - +.bkisecurities.com
     - +.bt-broker.com
@@ -61,54 +130,27 @@ payload:
     - +.ramzinex.com
     - +.tabdeal.org
     - +.tetherland.com
-    - +.quera.org
-    - +.bimeonline.com
-    - +.dana-insurance.com
-    - +.dayins.com
-    - +.bimehasia.com
-    - +.bimeh.com
-    - +.novininsurance.com
-    - +.mellatinsurance.com
-    - +.sinainsurance.com
-    - +.blogfa.com
-    - +.agri-bank.com
-    - +.ansarbank.com
-    - +.blubank.com
-    - +.hibank24.com
-    - +.parsian-bank.com
-    - +.sb24.com
-    - +.agrieng.org
-    - +.cdnsnapptrip.com
-    - +.snapp-box.com
-    - +.melotar.com
-    - +.snapp.cab
-    - +.snapp.doctor
-    - +.snapp.express
-    - +.snapp.ninja
-    - +.snapp.site
-    - +.snapp.supply
-    - +.snapp.taxi
-    - +.snapp.tech
-    - +.snappcloud.io
-    - +.snappfood.dev
-    - +.snapproom.com
-    - +.snapptrip.com
+    - +.virasty.com
     - +.faradars.org
     - +.maktabkhooneh.org
     - +.newdars.com
-    - +.virasty.com
-    - +.blogsky.com
+    - +.toplearn.com
+    - +.melotar.com
     - +.iranlms.org
     - +.webinarplus.online
-    - +.asanpardakht.com
-    - +.bitbarg.me
-    - +.zarinpal.com
-    - +.mydigipay.com
-    - +.behpardakht.com
-    - +.asanpardakht.net
-    - +.vandar.app
-    - +.vandar.io
-    - +.weswap.digital
+    - +.sanjesh.org
+    - +.sharif.edu
+    - +.srttu.edu
+    - +.digi-kala.com
+    - +.janebi.com
+    - +.sheypoor.com
+    - +.torob.com
+    - +.digikala.com
+    - +.digikalabusiness.com
+    - +.digikalajet.com
+    - +.digistyle.com
+    - +.divar.cloud
+    - +.divarcdn.com
     - +.abrha.net
     - +.afranet.com
     - +.arvancloud.com
@@ -133,59 +175,17 @@ payload:
     - +.softgozar.com
     - +.yasdl.com
     - +.zhaket.com
-    - +.flightio.com
-    - +.mrbilit.com
-    - +.tap30.services
-    - +.tap33.me
-    - +.tapsi.cab
-    - +.cinematicket.org
-    - +.melodify.app
-    - +.melodify.pw
-    - +.telewebion.net
-    - +.aparat.com
-    - +.aparatkids.com
-    - +.aparatsport.com
-    - +.filimo.com
-    - +.filimo.school
-    - +.asriran.com
-    - +.eghtesadnews.com
-    - +.fararu.com
-    - +.hawzahnews.com
-    - +.iraneconomist.com
-    - +.mehrnews.com
-    - +.parsine.com
-    - +.qodsna.com
-    - +.saat24.com
-    - +.sobhanehonline.com
-    - +.tasnimnews.com
-    - +.tejaratnews.com
-    - +.7sobh.com
-    - +.abrarnews.com
-    - +.donya-e-eqtesad.com
-    - +.ebtekarnews.com
-    - +.ettelaat.com
-    - +.financialtribune.com
-    - +.iran-newspaper.com
-    - +.khabarvarzeshi.com
-    - +.khorasannews.com
-    - +.resalat-news.com
-    - +.tehrantimes.com
+    - +.agri-bank.com
+    - +.ansarbank.com
+    - +.blubank.com
+    - +.hibank24.com
+    - +.parsian-bank.com
+    - +.sb24.com
+    - +.abanbroker.com
+    - +.agrieng.org
     - +.ninisite.com
-    - +.sanjesh.org
-    - +.sharif.edu
-    - +.srttu.edu
-    - +.niniban.com
-    - +.digi-kala.com
-    - +.janebi.com
-    - +.sheypoor.com
-    - +.torob.com
-    - +.digikala.com
-    - +.digikalabusiness.com
-    - +.digikalajet.com
-    - +.digistyle.com
-    - +.divar.cloud
-    - +.divarcdn.com
     - +.bale.ai
     - +.eitaa.com
     - +.gap.im
     - +.gaplication.com
+    - +.niniban.com
