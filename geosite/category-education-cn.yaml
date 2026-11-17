@@ -12,41 +12,41 @@ payload:
     - +.univs.cn
     - +.cedf.cn
     - +.rainclassroom.com
-    - +.koopass.com
-    - +.koolearn.com
+    - +.fenbilantian.com
+    - +.fenbilantian.cn
     - +.chesicc.cn
     - +.llsapp.com
-    - +.koocdn.com
+    - +.fenbike.com
     - +.chesicc.net
-    - +.yeshj.com
-    - +.hujiang.com
-    - +.hjfile.cn
+    - +.fenbike.cn
+    - +.fenbi.com
+    - +.fbstatic.cn
     - +.chsi.cn
-    - +.hjapi.com
-    - +.cctalk.com
+    - +.yuantiku.com
+    - +.yuansouti.com
     - +.gfbzb.cn
     - +.gfbzb.com
-    - +.mojidict.com
-    - +.shareintelli.com
+    - +.yuanfudao.com
+    - +.ybccode.com
     - +.gfbzb.net
     - +.ncss.cn
-    - +.hugecore.net
-    - +.17zuoye.net
-    - +.17zuoye.com
+    - +.xiaoyuankousuan.com
+    - +.banmaaike.com
+    - +.koopass.com
     - +.qgzb.net
-    - +.17zuoye.cn
+    - +.koolearn.com
     - +.zbbm.net
     - +.neea.cn
-    - +.fenbilantian.com
+    - +.koocdn.com
     - +.mypep.cn
     - +.edu.cn
-    - +.fenbilantian.cn
+    - +.mojidict.com
     - +.diyifanwen.com
     - +.zuowen8.com
     - +.zuowenjun.com
     - +.zuowenku.net
     - +.zuowenwang.net
-    - +.fenbike.com
+    - +.shareintelli.com
     - +.21cnjy.com
     - +.91yunxiao.com
     - +.aiyunxiao.com
@@ -91,7 +91,7 @@ payload:
     - +.huijiaoyun.com
     - +.ictbda.cn
     - +.ictbda.com
-    - +.fenbike.cn
+    - +.hugecore.net
     - +.xir.cn
     - +.j-test.com
     - +.nattest-china.com
@@ -100,7 +100,7 @@ payload:
     - +.jzagile.com
     - +.keboyunxiao.com
     - +.ketangpai.com
-    - +.fenbi.com
+    - +.applysquare.net
     - +.chesicc.com
     - +.yudou.cn
     - +.llsserver.com
@@ -117,7 +117,7 @@ payload:
     - +.qingtingai.net
     - +.quyixian.com
     - +.rongdeji.cn
-    - +.fbstatic.cn
+    - +.applysquare.com
     - +.saduck.top
     - +.szu.app
     - +.szu.moe
@@ -149,13 +149,12 @@ payload:
     - +.mooc.cn
     - +.openlearning.com
     - +.pmphmooc.com
-    - +.yuantiku.com
-    - +.applysquare.com
-    - +.applysquare.net
-    - +.zuoyebang.cc
-    - +.zuoyebang.com
-    - +.zybang.com
-    - +.kuaiduizuoye.com
+    - +.17zuoye.net
+    - +.cctalk.com
+    - +.hjapi.com
+    - +.hjfile.cn
+    - +.hujiang.com
+    - +.yeshj.com
     - +.schoopia.com
     - +.tongxuepie.com
     - +.baydn.com
@@ -172,11 +171,12 @@ payload:
     - +.youjiao.com
     - +.zhongkao.com
     - +.zuowen.com
-    - +.banmaaike.com
-    - +.xiaoyuankousuan.com
-    - +.ybccode.com
-    - +.yuanfudao.com
-    - +.yuansouti.com
+    - +.zuoyebang.cc
+    - +.zuoyebang.com
+    - +.zybang.com
+    - +.kuaiduizuoye.com
+    - +.17zuoye.cn
+    - +.17zuoye.com
     - +.chdi.com.cn
     - +.qgzb.com.cn
     - +.icve.com.cn
