@@ -8,8 +8,8 @@ payload:
     - p7-juejin.byteimg.com
     - p8-juejin.byteimg.com
     - p9-juejin.byteimg.com
-    - +.juejin.im
-    - +.sifou.com
+    - +.hikunpeng.com
+    - +.mindspore.cn
     - +.ejoy.com
     - +.jinrishici.com
     - +.kaihong.com
@@ -20,8 +20,20 @@ payload:
     - +.tipdm.org
     - +.weboss.hk
     - +.zuidaima.com
-    - +.ruby-china.org
-    - +.rubyconfchina.org
+    - +.apifox.cn
+    - +.apifox.com
+    - +.oschina.net
+    - +.gitee.com
+    - +.gitee.io
+    - +.asktug.com
+    - +.pingcap.cn
+    - +.pingcap.com
+    - +.tidb.ai
+    - +.tidb.net
+    - +.tidbcloud.com
+    - +.tikv.org
+    - +.segmentfault.com
+    - +.sifou.com
     - +.openmidas.com
     - +.qq.design
     - +.qqgamedesign.com
@@ -33,64 +45,15 @@ payload:
     - +.wegamedeveloper.com
     - +.weixinbridge.com
     - +.weui.io
-    - +.coding.me
-    - +.coding.net
     - +.cnb.cool
     - +.cnb.space
-    - +.openkylin.top
-    - +.ubuntukylin.com
-    - +.iteye.com
-    - +.csto.com
-    - +.csdn.com
-    - +.csdn.net
-    - +.gitbook.cn
-    - +.csdnimg.cn
-    - +.codechina.net
-    - +.datasea.cn
-    - +.kaifayun.com
-    - +.gitchat.cn
-    - +.gitcode.com
-    - +.gitcode.net
-    - +.atomgit.com
-    - +.asktug.com
-    - +.pingcap.cn
-    - +.pingcap.com
-    - +.tidb.ai
-    - +.tidb.net
-    - +.tidbcloud.com
-    - +.tikv.org
-    - +.u3d.cn
-    - +.unity.cn
-    - +.unitychina.cn
-    - +.unity3dcloud.cn
-    - +.apifox.cn
-    - +.apifox.com
-    - +.juejin.cn
-    - +.hiascend.com
-    - +.cocos.com
-    - +.houyicaiji.com
-    - +.dengguobi.com
-    - +.jinglingbiaozhu.com
-    - +.segmentfault.com
-    - +.xitu.io
+    - +.coding.me
+    - +.coding.net
+    - +.aixcoder.com
+    - +.nnthink.com
     - +.goproxy.cn
     - +.goproxy.io
-    - +.apipost.cn
-    - +.apipost.net
-    - +.baltamatica.cn
-    - +.baltamatica.net
-    - +.baltamatica.com
-    - +.blogjava.net
-    - +.cnblogs.com
-    - +.nnthink.com
-    - +.aixcoder.com
-    - +.cnblogs.vip
-    - +.cnitblog.com
-    - +.cnweblog.com
-    - +.cppblog.com
-    - +.phpweblog.net
-    - +.teachblog.net
-    - +.aardio.com
+    - +.hiascend.com
     - +.teleows.com
     - +.bisheng.cn
     - +.gneec.com
@@ -103,30 +66,67 @@ payload:
     - +.devui.design
     - +.bishengcompiler.cn
     - +.hiascend.cn
-    - +.hikunpeng.com
-    - +.saasops.tech
-    - +.hikunpeng.net
+    - +.gitcode.net
+    - +.cocos.com
     - +.hisilicon.com
+    - +.hikunpeng.net
     - +.owsgo.com
     - +.huaweiapaas.com
-    - +.mindspore.cn
-    - +.sxlcdn.com
-    - +.sxlcdn.cn
-    - +.sxl.cn
-    - +.mysxl.cn
+    - +.saasops.tech
+    - +.ruby-china.org
+    - +.rubyconfchina.org
+    - +.u3d.cn
+    - +.unity.cn
+    - +.unitychina.cn
+    - +.unity3dcloud.cn
+    - +.iteye.com
+    - +.csto.com
+    - +.csdn.com
+    - +.csdn.net
+    - +.gitbook.cn
+    - +.csdnimg.cn
+    - +.codechina.net
+    - +.datasea.cn
+    - +.kaifayun.com
+    - +.gitchat.cn
+    - +.gitcode.com
+    - +.aardio.com
+    - +.atomgit.com
+    - +.baltamatica.cn
+    - +.baltamatica.net
+    - +.jinglingbiaozhu.com
+    - +.houyicaiji.com
+    - +.dengguobi.com
     - +.frontjs.com
-    - +.oschina.net
-    - +.gitee.com
-    - +.gitee.io
-    - +.pgyer.com
+    - +.baltamatica.com
     - +.tracup.com
-    - +.gneec.com.cn
-    - +.hikunpeng.com.cn
-    - +.hisilicon.com.cn
+    - +.pgyer.com
+    - +.apipost.net
+    - +.blogjava.net
+    - +.cnblogs.com
+    - +.cnblogs.vip
+    - +.cnitblog.com
+    - +.cnweblog.com
+    - +.cppblog.com
+    - +.phpweblog.net
+    - +.teachblog.net
+    - +.juejin.cn
+    - +.juejin.im
+    - +.xitu.io
+    - +.mysxl.cn
+    - +.sxl.cn
+    - +.sxlcdn.cn
+    - +.sxlcdn.com
+    - +.openkylin.top
+    - +.ubuntukylin.com
+    - +.apipost.cn
     - +.baltamatica.org.cn
     - +.programmer.net.cn
     - +.programmer.com.cn
     - +.csdn.net.cn
+    - +.gneec.com.cn
+    - +.hikunpeng.com.cn
+    - +.hisilicon.com.cn
     - +.badjs.weixinbridge.com
     - +.ads.unitychina.cn
     - +.splash-ads.cdn.unity.cn

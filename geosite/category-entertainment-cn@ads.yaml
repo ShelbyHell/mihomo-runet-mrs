@@ -1,5 +1,12 @@
 payload:
-    - +.log-upload.mihoyo.com
+    - +.adbkwai.com
+    - +.adkwai.com
+    - +.adukwai.com
+    - +.e.kuaishou.cn
+    - +.e.kuaishou.com
+    - log-sdk.gifshow.com
+    - wlog.kuaishou.com
+    - apilog-web.acfun.cn
     - +.apple.www.letv.com
     - +.ark.letv.com
     - +.dc.letv.com
@@ -22,14 +29,7 @@ payload:
     - +.adbehavior.ximalaya.com
     - +.adse.wsa.ximalaya.com
     - +.adse.ximalaya.com
-    - +.adbkwai.com
-    - +.adkwai.com
-    - +.adukwai.com
-    - +.e.kuaishou.cn
-    - +.e.kuaishou.com
-    - log-sdk.gifshow.com
-    - wlog.kuaishou.com
-    - apilog-web.acfun.cn
+    - +.log-upload.mihoyo.com
     - ads3-normal-hl.zijieapi.com
     - ads3-normal.zijieapi.com
     - ads5-normal-hl.zijieapi.com
