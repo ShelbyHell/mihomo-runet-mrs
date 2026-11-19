@@ -4,94 +4,15 @@ payload:
     - edu.tinkoff.ru
     - education.tbank.ru
     - +.hsbc
-    - +.bmwbank.ru
-    - +.commerzbank.ru
+    - +.my-tbank.ru
+    - +.private-banking.ru
     - +.mql5.com
     - +.tradingview.com
-    - +.a-bank.jp
-    - +.smtb.jp
-    - +.sonybank.jp
     - +.tuncommercialbank.com
     - +.nptsibinbank.com
     - +.agdbank.com
     - +.ayabank.com
     - +.ysx-mm.com
-    - +.wise.com
-    - +.transferwise.com
-    - +.stripecdn.com
-    - +.stripe.network
-    - +.stripe.global
-    - +.stripe.events
-    - +.stripe.dev
-    - +.stripe.com
-    - +.stripe-terminal-local-reader.net
-    - +.link.com
-    - +.ibkrguides.com
-    - +.ibkr.ie
-    - +.ibkr.eu
-    - +.ibkr.ca
-    - +.interactivebrokers.eu
-    - +.interactivebrokers.ca
-    - +.interactivebrokers.ie
-    - +.ibllc.com
-    - +.ibkr.com
-    - +.interactivebrokers.com
-    - +.vv1865.com
-    - +.hsbc-transactionservices.de
-    - +.hsbc.uk
-    - +.hsbc-zertifikate.de
-    - +.hsbc.lk
-    - +.hsbc.ca
-    - +.hsbc.com
-    - +.hsbc.de
-    - +.hsbc.net
-    - +.hsbc-alternatives.de
-    - +.hsbc.bm
-    - +.bspb.ru
-    - +.hsbc.am
-    - +.hsbc.ae
-    - +.hsbcprivatebank.com
-    - +.hsbc.fr
-    - +.hsbctrinkaus.de
-    - +.hsbcinnovationbanking.com
-    - +.hsbcnet.com
-    - +.fxcorporate.com
-    - +.thinkorswim.com
-    - +.schwabplan.com
-    - +.schwabcdn.com
-    - +.schwabassetmanagement.com
-    - +.schwab.com
-    - +.aboutschwab.com
-    - +.tech26.de
-    - +.number26.de
-    - +.n26.com
-    - +.wbrks.com
-    - +.lbkrs.com
-    - +.lbctrl.com
-    - +.longportapp.com
-    - +.longbridgehk.com
-    - +.longbridgeapp.com
-    - +.longbridge.sg
-    - +.longbridge.hk
-    - +.longbridge.global
-    - +.longbridge.com
-    - +.longbridge.cn
-    - +.longbridge.cloud
-    - +.xn--d1abkf4ap.fun
-    - +.xn--b1aechhj6bof8g5a.site
-    - +.xn--90aifd0az.shop
-    - +.unidraw.io
-    - +.travel-tec.ru
-    - +.tpension.ru
-    - +.tmiaf.ru
-    - +.tinsurancefuture.ru
-    - +.tinsurance.ru
-    - +.tinkoffmobile.com
-    - +.tinkoffjournal.ru
-    - +.tinkoffinsurancefuture.ru
-    - +.tinkoffinsurance.ru
-    - +.tinkoffcapital.ru
-    - +.tinkoff.ru
     - +.yomabank.com
     - +.ablmm.com
     - +.shwebank.com
@@ -102,74 +23,75 @@ payload:
     - +.mwdbank.com
     - +.mdbankpublic.com
     - +.mobmyanmar.com
-    - +.tinkoff.ai
-    - +.tinkoff-group.com
-    - +.time-messenger.ru
-    - +.tdev.by
-    - +.tcsbank.ru
-    - +.tconf.ru
-    - +.tbank.ru
-    - +.tbank-online.com
-    - +.tb-esim.ru
-    - +.t.finance
-    - +.t-tolk.ru
-    - +.t-technologies.ru
-    - +.boc.ru
-    - +.t-tech.ru
-    - +.t-tech.dev
-    - +.t-stekovka.ru
-    - +.t-static.ru
-    - +.t-pulse.ru
-    - +.t-ofp.ru
-    - +.t-j.ru
-    - +.ifastgp.com
-    - +.fundsupermart.com
-    - +.ifastcorp.com
-    - +.ifastgb.com
-    - +.fsmone.com
-    - +.ifastnetwork.com
-    - +.ifasttv.com
-    - +.t-investlab.ru
-    - +.t-human.ru
-    - +.t-finance.ru
-    - +.t-finance.group
-    - +.t-dengi.ru
-    - +.t-cpa.ru
-    - +.itiger.com
-    - +.itigergrowth.com
-    - +.itigergrowtha.com
-    - +.itigerup.com
-    - +.laohu8.com
-    - +.skytigris.cn
-    - +.tigerbbs.cn
-    - +.tigerbbs.com
+    - +.tech26.de
+    - +.number26.de
+    - +.n26.com
     - +.xiaohu8.com
+    - +.tigerbbs.com
+    - +.tigerbbs.cn
+    - +.skytigris.cn
+    - +.laohu8.com
+    - +.itigerup.com
+    - +.itigergrowtha.com
+    - +.itigergrowth.com
+    - +.itiger.com
+    - +.vv1865.com
+    - +.hsbc-transactionservices.de
+    - +.hsbc.uk
+    - +.interactivebrokers.com
+    - +.ibkr.com
+    - +.ibllc.com
+    - +.interactivebrokers.ie
+    - +.interactivebrokers.ca
+    - +.interactivebrokers.eu
+    - +.ibkr.ca
+    - +.ibkr.eu
+    - +.ibkr.ie
+    - +.bbr.ru
+    - +.hsbc-zertifikate.de
+    - +.hsbc.lk
+    - +.hsbc.ca
+    - +.hsbc.com
+    - +.hsbc.de
+    - +.hsbc.net
+    - +.hsbc-alternatives.de
+    - +.hsbc.bm
+    - +.hsbc.am
+    - +.hsbc.ae
+    - +.hsbcprivatebank.com
+    - +.longbridge.cloud
+    - +.longbridge.cn
+    - +.longbridge.com
+    - +.longbridge.global
+    - +.longbridge.hk
+    - +.longbridge.sg
+    - +.longbridgeapp.com
+    - +.longbridgehk.com
+    - +.longportapp.com
+    - +.lbctrl.com
+    - +.lbkrs.com
+    - +.wbrks.com
+    - +.aboutschwab.com
+    - +.schwab.com
+    - +.schwabassetmanagement.com
+    - +.schwabcdn.com
+    - +.schwabplan.com
+    - +.thinkorswim.com
+    - +.hsbc.fr
+    - +.hsbctrinkaus.de
+    - +.hsbcinnovationbanking.com
+    - +.link.com
+    - +.stripe-terminal-local-reader.net
+    - +.stripe.com
+    - +.stripe.dev
+    - +.stripe.events
+    - +.stripe.global
+    - +.stripe.network
+    - +.stripecdn.com
     - +.sc.com
     - +.standardchartered.com
-    - +.fibank.bg
-    - +.meawallet.app
-    - +.myfin.bg
-    - +.futu.cn
-    - +.futu.link
-    - +.futu5.com
-    - +.futuau.com
-    - +.futuesop.com
-    - +.futufin.com
-    - +.futuhk.com
-    - +.futuhk1.com
-    - +.futuhk2.com
-    - +.futuhkapp.com
-    - +.futuhn.com
-    - +.futuholdings.com
-    - +.futuniuniu.com
-    - +.futunn.com
-    - +.futuoa.com
-    - +.futusg.com
-    - +.futustatic.com
-    - +.fututrade.com
-    - +.moomoo.com
-    - +.moomooequity.com
-    - +.moomootrustee.com
+    - +.transferwise.com
+    - +.wise.com
     - +.agri-bank.com
     - +.ansarbank.com
     - +.bank-maskan.ir
@@ -202,6 +124,90 @@ payload:
     - +.shaparak.ir
     - +.sinabank.ir
     - +.tejaratbank.ir
+    - +.a-bank.jp
+    - +.smtb.jp
+    - +.sonybank.jp
+    - +.hsbcnet.com
+    - +.fxcorporate.com
+    - +.myfin.bg
+    - +.meawallet.app
+    - +.fibank.bg
+    - +.ifasttv.com
+    - +.ifastnetwork.com
+    - +.fsmone.com
+    - +.ifastgb.com
+    - +.ifastcorp.com
+    - +.fundsupermart.com
+    - +.ifastgp.com
+    - +.moomootrustee.com
+    - +.moomooequity.com
+    - +.moomoo.com
+    - +.fututrade.com
+    - +.futustatic.com
+    - +.futusg.com
+    - +.futuoa.com
+    - +.futunn.com
+    - +.futuniuniu.com
+    - +.futuholdings.com
+    - +.futuhn.com
+    - +.futuhkapp.com
+    - +.futuhk2.com
+    - +.futuhk1.com
+    - +.futuhk.com
+    - +.futufin.com
+    - +.futuesop.com
+    - +.futuau.com
+    - +.futu5.com
+    - +.futu.link
+    - +.futu.cn
+    - +.xn--d1abkf4ap.fun
+    - +.xn--b1aechhj6bof8g5a.site
+    - +.xn--90aifd0az.shop
+    - +.unidraw.io
+    - +.travel-tec.ru
+    - +.tpension.ru
+    - +.tmiaf.ru
+    - +.tinsurancefuture.ru
+    - +.tinsurance.ru
+    - +.tinkoffmobile.com
+    - +.tinkoffjournal.ru
+    - +.tinkoffinsurancefuture.ru
+    - +.tinkoffinsurance.ru
+    - +.tinkoffcapital.ru
+    - +.tinkoff.ru
+    - +.tinkoff.ai
+    - +.tinkoff-group.com
+    - +.time-messenger.ru
+    - +.tdev.by
+    - +.tcsbank.ru
+    - +.tconf.ru
+    - +.tbank.ru
+    - +.tbank-online.com
+    - +.tb-esim.ru
+    - +.t.finance
+    - +.t-tolk.ru
+    - +.t-technologies.ru
+    - +.t-tech.team
+    - +.t-tech.ru
+    - +.t-tech.dev
+    - +.t-stekovka.ru
+    - +.t-static.ru
+    - +.t-pulse.ru
+    - +.bankvl.ru
+    - +.t-j.ru
+    - +.t-investlab.ru
+    - +.t-human.ru
+    - +.t-finance.ru
+    - +.t-finance.group
+    - +.t-dengi.ru
+    - +.t-cpa.ru
+    - +.t-capital-funds.ru
+    - +.t-calls.ru
+    - +.t-bank.by
+    - +.t-bank-app.su
+    - +.t-bank-app.ru
+    - +.t-access.ru
+    - +.sgcheck.ru
     - +.novikom.ru
     - +.babki.ru
     - +.alfabank.st
@@ -324,21 +330,21 @@ payload:
     - +.bankofkazan.ru
     - +.bankperm.ru
     - +.bankstavr.ru
-    - +.bankvl.ru
-    - +.bbr.ru
-    - +.bfa.ru
+    - +.t-ofp.ru
+    - +.ibkrguides.com
+    - +.bystrobank.ru
     - +.blanc.ru
     - +.bm-bank.ru
-    - +.firstrade.com
-    - +.t-tech.team
-    - +.t-capital-funds.ru
-    - +.jivara.global
+    - +.bmwbank.ru
+    - +.boc.ru
+    - +.bspb.ru
+    - +.bfa.ru
     - +.centrinvest.ru
     - +.chelindbank.ru
     - +.cibank.ru
     - +.cifra-bank.ru
     - +.cmrbank.ru
-    - +.bystrobank.ru
+    - +.commerzbank.ru
     - +.crediteurope.ru
     - +.databank.ru
     - +.dcapital.ru
@@ -486,9 +492,9 @@ payload:
     - +.malotogo.ru
     - +.max-tcs.ru
     - +.mfk-t-finance.ru
-    - +.my-tbank.ru
+    - +.firstrade.com
     - +.phoenix-ca.ru
-    - +.private-banking.ru
+    - +.jivara.global
     - +.rbcollect.ru
     - +.rbcredit.ru
     - +.rf-sim-mobile.ru
@@ -502,22 +508,144 @@ payload:
     - +.rusfinancebank.ru
     - +.safeliner.tech
     - +.sage-observability.tech
-    - +.sgcheck.ru
-    - +.t-access.ru
-    - +.t-bank-app.ru
-    - +.t-bank-app.su
-    - +.t-bank.by
-    - +.t-calls.ru
+    - +.joyobank.co.jp
+    - +.iyobank.co.jp
+    - +.yamaguchibank.co.jp
+    - +.yamagatabank.co.jp
+    - +.tsukubabank.co.jp
+    - +.toyobank.co.jp
+    - +.tottoribank.co.jp
+    - +.tomibank.co.jp
+    - +.tohoku-bank.co.jp
+    - +.tohobank.co.jp
+    - +.tochigibank.co.jp
+    - +.tajimabank.co.jp
+    - +.surugabank.co.jp
+    - +.smbctb.co.jp
+    - +.smbc.co.jp
+    - +.shonai.co.jp
+    - +.shokochukin.co.jp
+    - +.shizuokabank.co.jp
+    - +.shinwabank.co.jp
+    - +.shimizubank.co.jp
+    - +.shikokubank.co.jp
+    - +.shigagin.co.jp
+    - +.sevenbank.co.jp
+    - +.sbishinseibank.co.jp
+    - +.saninbank.co.jp
+    - +.saitama-resona.co.jp
+    - +.sagabank.co.jp
+    - +.ryukyubank.co.jp
     - +.resonabank.co.jp
+    - +.yokohamabank.co.jp
+    - +.paypay-bank.co.jp
     - +.okinawabank.co.jp
-    - +.ifastfinancial.co.in
-    - +.ifastfinancial.com.hk
-    - +.ifastcapital.com.my
-    - +.fsmone.com.my
+    - +.oitabank.co.jp
+    - +.ogakikyoritsu.co.jp
+    - +.nochubank.or.jp
+    - +.chibabank.co.jp
+    - +.nantobank.co.jp
+    - +.musashinobank.co.jp
+    - +.mizuhobank.co.jp
+    - +.miyazakibank.co.jp
+    - +.mie.co.jp
+    - +.michinokubank.co.jp
+    - +.kyotobank.co.jp
+    - +.kiyobank.co.jp
+    - +.kitakyushubank.co.jp
+    - +.kinki.co.jp
+    - +.kagobank.co.jp
+    - +.juroku.co.jp
+    - +.ssb.msk.ru
+    - +.ru.ccb.com
+    - +.finance.ozon.ru
+    - +.bank.yandex.ru
+    - +.vtb-grants.fut.ru
+    - +.juhachibank.co.jp
+    - +.jp-bank.japanpost.jp
+    - +.chikubank.co.jp
+    - +.jibunbank.co.jp
+    - +.jfc.go.jp
+    - +.interactivebrokers.com.hk
+    - +.iwatebank.co.jp
+    - +.ikedashinsen.co.jp
+    - +.hyakugo.co.jp
+    - +.hokuyobank.co.jp
+    - +.hokutobank.co.jp
+    - +.hokuetsubank.co.jp
+    - +.hokkoku.co.jp
+    - +.hiroshimabank.co.jp
+    - +.higobank.co.jp
+    - +.gunmabank.co.jp
+    - +.fukuokabank.co.jp
+    - +.fukuibank.co.jp
+    - +.daiichibank.co.jp
+    - +.citibank.co.jp
+    - +.hsbc.com.ar
+    - +.rakuten-bank.co.jp
+    - +.yamanashibank.co.jp
+    - +.nishinipponbank.co.jp
+    - +.boj.or.jp
+    - +.bk.mufg.jp
+    - +.awabank.co.jp
+    - +.ashikagabank.co.jp
     - +.fsmone.com.hk
+    - +.fsmone.com.my
+    - +.ifastcapital.com.my
+    - +.ifastfinancial.com.hk
+    - +.ifastfinancial.co.in
+    - +.ifastgp.com.hk
+    - +.aozorabank.co.jp
+    - +.akita-bank.co.jp
+    - +.82bank.co.jp
+    - +.77bank.co.jp
+    - +.114bank.co.jp
+    - +.schwab.com.sg
+    - +.schwab.com.hk
+    - +.schwab.co.uk
+    - +.interactivebrokers.co.in
+    - +.ibkr.com.hk
+    - +.interactivebrokers.com.sg
+    - +.chibakogyo-bank.co.jp
+    - +.interactivebrokers.com.au
+    - +.ibkr.com.sg
+    - +.interactivebrokers.co.uk
+    - +.interactivebrokers.co.jp
+    - +.ibkr.co.uk
+    - +.ibkr.co.in
+    - +.ibkr.com.au
     - +.cbbank.com.mm
     - +.cbm.com.mm
     - +.waveomoney.com.mm
+    - +.hsbc.co.mu
+    - +.hsbc.com.vn
+    - +.hsbc.com.br
+    - +.hsbc.com.eg
+    - +.hsbc.com.hk
+    - +.hsbc.com.mo
+    - +.hsbc.com.mt
+    - +.hsbc.com.mx
+    - +.hsbc.com.my
+    - +.hsbcamanah.com.my
+    - +.hsbc.com.ph
+    - +.hsbc.com.sg
+    - +.hsbc.com.tr
+    - +.hsbc.com.tw
+    - +.hsbc.com.uy
+    - +.hsbc.com.bh
+    - +.hsbc.com.bd
+    - +.hsbc.com.au
+    - +.chugokubank.co.jp
+    - +.hsbc.co.uk
+    - +.hsbc.co.th
+    - +.hsbc.co.nz
+    - +.hsbc.co.jp
+    - +.hsbc.co.kr
+    - +.hsbc.co.in
+    - +.hsbc.co.id
+    - +.hsbc.com.cn
+    - +.hsbcqh.com.cn
+    - +.hsbcinsurance.com.cn
     - +.uab.com.mm
     - +.chid.com.mm
     - +.smedevelopmentbank.com.mm
@@ -530,135 +658,7 @@ payload:
     - +.mmftb.gov.mm
     - +.mmbbank.com.mm
     - +.firstprivatebank.com.mm
-    - +.yokohamabank.co.jp
-    - +.yamanashibank.co.jp
-    - +.yamaguchibank.co.jp
-    - +.yamagatabank.co.jp
-    - +.tsukubabank.co.jp
-    - +.toyobank.co.jp
-    - +.tottoribank.co.jp
-    - +.jp-bank.japanpost.jp
-    - +.tohoku-bank.co.jp
-    - +.tohobank.co.jp
-    - +.tochigibank.co.jp
-    - +.tajimabank.co.jp
-    - +.surugabank.co.jp
-    - +.kagobank.co.jp
-    - +.smbc.co.jp
-    - +.shonai.co.jp
-    - +.shokochukin.co.jp
-    - +.shizuokabank.co.jp
-    - +.shinwabank.co.jp
-    - +.shimizubank.co.jp
-    - +.ssb.msk.ru
-    - +.ru.ccb.com
-    - +.finance.ozon.ru
-    - +.bank.yandex.ru
-    - +.vtb-grants.fut.ru
-    - +.shikokubank.co.jp
-    - +.shigagin.co.jp
-    - +.sevenbank.co.jp
-    - +.sbishinseibank.co.jp
-    - +.saninbank.co.jp
-    - +.saitama-resona.co.jp
-    - +.sagabank.co.jp
-    - +.ryukyubank.co.jp
-    - +.kitakyushubank.co.jp
-    - +.rakuten-bank.co.jp
-    - +.paypay-bank.co.jp
-    - +.hsbc.com.my
-    - +.oitabank.co.jp
-    - +.ogakikyoritsu.co.jp
-    - +.nochubank.or.jp
-    - +.nishinipponbank.co.jp
-    - +.nantobank.co.jp
-    - +.musashinobank.co.jp
-    - +.mizuhobank.co.jp
-    - +.miyazakibank.co.jp
-    - +.mie.co.jp
-    - +.schwab.co.uk
-    - +.schwab.com.hk
-    - +.schwab.com.sg
-    - +.michinokubank.co.jp
-    - +.kyotobank.co.jp
-    - +.chikubank.co.jp
-    - +.tomibank.co.jp
-    - +.ifastgp.com.hk
-    - +.smbctb.co.jp
-    - +.juroku.co.jp
-    - +.juhachibank.co.jp
-    - +.joyobank.co.jp
-    - +.jibunbank.co.jp
-    - +.jfc.go.jp
-    - +.iyobank.co.jp
-    - +.iwatebank.co.jp
-    - +.ikedashinsen.co.jp
-    - +.hyakugo.co.jp
-    - +.hokuyobank.co.jp
-    - +.hokutobank.co.jp
-    - +.hokuetsubank.co.jp
-    - +.hokkoku.co.jp
-    - +.hsbc.co.mu
-    - +.hsbc.com.vn
-    - +.hsbc.com.br
-    - +.hsbc.com.eg
-    - +.hsbc.com.hk
-    - +.hsbc.com.mo
-    - +.hsbc.com.mt
-    - +.hsbc.com.mx
-    - +.kinki.co.jp
-    - +.hsbcamanah.com.my
-    - +.hsbc.com.ph
-    - +.hsbc.com.sg
-    - +.hsbc.com.tr
-    - +.hsbc.com.tw
-    - +.hsbc.com.uy
-    - +.hsbc.com.bh
-    - +.hsbc.com.bd
-    - +.hsbc.com.au
-    - +.hsbc.com.ar
-    - +.hsbc.co.uk
-    - +.hsbc.co.th
-    - +.hsbc.co.nz
-    - +.hsbc.co.jp
-    - +.hsbc.co.kr
-    - +.hsbc.co.in
-    - +.hsbc.co.id
-    - +.hsbc.com.cn
-    - +.hsbcqh.com.cn
-    - +.hsbcinsurance.com.cn
-    - +.hiroshimabank.co.jp
-    - +.higobank.co.jp
-    - +.gunmabank.co.jp
-    - +.fukuokabank.co.jp
-    - +.fukuibank.co.jp
-    - +.daiichibank.co.jp
-    - +.citibank.co.jp
-    - +.chugokubank.co.jp
-    - +.kiyobank.co.jp
-    - +.chibakogyo-bank.co.jp
-    - +.ibkr.com.au
-    - +.ibkr.co.in
-    - +.ibkr.co.uk
-    - +.interactivebrokers.co.jp
-    - +.interactivebrokers.co.uk
-    - +.ibkr.com.sg
-    - +.interactivebrokers.com.au
-    - +.interactivebrokers.com.hk
-    - +.interactivebrokers.com.sg
-    - +.ibkr.com.hk
-    - +.interactivebrokers.co.in
-    - +.chibabank.co.jp
-    - +.boj.or.jp
-    - +.bk.mufg.jp
-    - +.awabank.co.jp
-    - +.ashikagabank.co.jp
-    - +.aozorabank.co.jp
-    - +.akita-bank.co.jp
-    - +.82bank.co.jp
-    - +.77bank.co.jp
-    - +.114bank.co.jp
-    - +.ifastps.com.cn
     - +.ads.sber.ru
     - +.clickstream.sberbank.ru
     - visor.sberbank.ru
+    - +.ifastps.com.cn

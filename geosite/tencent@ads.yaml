@@ -1,4 +1,5 @@
 payload:
+    - +.tencentads.com
     - +.ad.browser.qq.com
     - +.ad.qq.com
     - +.ad.qun.qq.com

@@ -90,8 +90,8 @@ payload:
     - scholar.googleusercontent.com
     - scholar.l.google.com
     - +.mit
-    - +.webofscience.com
-    - +.mtt.org
+    - +.cambridgeschoolshakespeare.com
+    - +.apress.com
     - +.acs.org
     - +.agu.org
     - +.aiaa.org
@@ -131,7 +131,7 @@ payload:
     - +.brill.com
     - +.bvdinfo.com
     - +.cairn.info
-    - +.newisiknowledge.com
+    - +.taylorfrancis.com
     - +.cas.org
     - +.ceicdata.com
     - +.chemnetbase.com
@@ -165,14 +165,14 @@ payload:
     - +.hindawi.com
     - +.hotcrp.com
     - +.icevirtuallibrary.com
-    - +.mitpressjournals.org
-    - +.mit.net
-    - +.mit.edu
-    - +.aclweb.org
+    - +.taylorandfrancis.com
+    - +.tandfonline.com
+    - +.wkap.nl
+    - +.springernature.com
     - +.igi-global.com
     - +.igpublish.com
-    - +.vtsociety.org
-    - +.technologyandsociety.org
+    - +.springerlink.com
+    - +.springer.com
     - +.informs.org
     - +.ioinformatics.org
     - +.iop.org
@@ -184,11 +184,11 @@ payload:
     - +.jmlr.org
     - +.jneurosci.org
     - +.jove.com
-    - +.signalprocessingsociety.org
+    - +.vtsociety.org
     - +.jstor.org
     - +.karger.com
     - +.kuke.com
-    - +.photonicssociety.org
+    - +.technologyandsociety.org
     - +.lexisnexis.com
     - +.literatumonline.com
     - +.mdpi.com
@@ -196,11 +196,11 @@ payload:
     - +.morganclaypool.com
     - +.nature.com
     - +.naturemag.org
-    - +.isiknowledge.com
-    - +.itsoc.org
+    - +.signalprocessingsociety.org
+    - +.photonicssociety.org
     - +.nejm.org
     - +.neurology.org
-    - +.ieeesystemscouncil.org
+    - +.mtt.org
     - +.oecd-ilibrary.org
     - +.openreview.net
     - +.optica.org
@@ -250,73 +250,19 @@ payload:
     - +.worldscientific.com
     - +.yale.edu
     - +.zenodo.org
-    - +.hkust.hk
-    - +.xn--fiq80y.hk
-    - +.cityu.hk
-    - +.polyu.hk
-    - +.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-    - +.xn--pssu7ci2j23mp9ny48b.hk
-    - +.cuhk.hk
-    - +.hkbu.hk
-    - +.xn--fiq80y.xn--j6w193g
-    - +.xn--fiq80y3xbiwr.hk
-    - +.xn--fiq80y3xbiwr.xn--j6w193g
-    - +.xn--fiq80y3xbiwrs0kiu9d.hk
-    - +.xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
-    - +.xn--pssu7ci3q5oge0ai91q.xn--j6w193g
-    - +.eduhk.hk
-    - +.xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
-    - +.xn--uis44a.xn--j6w193g
-    - +.xn--wcvs22d.xn--j6w193g
-    - +.edu.hk
-    - +.xn--pssu7cv61af44b.xn--j6w193g
-    - +.hku.hk
-    - +.xn--pssu7cv61af44b.hk
-    - +.ieeesmc.org
-    - +.ieeeoes.org
-    - +.ieeenano.org
-    - +.ieeemagnetics.org
-    - +.ieeedeis.org
-    - +.ieeecss.org
-    - +.ieeecsc.org
-    - +.ieeeaps.org
-    - +.ieee-uffc.org
-    - +.ieee-tems.org
-    - +.ieee-sensors.org
-    - +.clarivate.com
-    - +.webofknowledge.com
-    - +.aacrjournals.org
-    - +.capitaliq.com
-    - +.acm.org
-    - +.ieeeday.org
-    - +.sci-hub.ee
-    - +.sci-hub.st
-    - +.ieee-ras.org
-    - +.ieee-pes.org
-    - +.ieee-pels.org
-    - +.oxfordlawtrove.com
-    - +.cambridgedigital.net
-    - +.cambridgeschoolshakespeare.com
-    - +.oxfordartonline.com
-    - +.cambridgemaths.org
-    - +.opac-project.eu
-    - +.livinno.org
-    - +.universitypressscholarship.com
-    - +.imperialbusiness.school
-    - +.ukwhoswho.com
-    - +.oxfordaasc.com
-    - +.oxfordfirstsource.com
-    - +.ac.uk
+    - +.oxfordreference.com
     - +.amamanualofstyle.com
+    - +.oxfordscholarlyeditions.com
+    - +.oxfordre.com
     - +.epigeum.com
     - +.oxfordhandbooks.com
     - +.omscr.com
     - +.oup.com
     - +.ouplaw.com
     - +.veryshortintroductions.com
-    - +.sipriyearbook.org
-    - +.cambridge.org
-    - +.oxfordscholarlyeditions.com
+    - +.oxfordpoliticstrove.com
+    - +.oxfordartonline.com
+    - +.ac.uk
     - +.oxfordclinicalpsych.com
     - +.oxforddnb.com
     - +.blackstonespoliceservice.com
@@ -324,20 +270,32 @@ payload:
     - +.oxfordbibliographies.com
     - +.oxfordmedicine.com
     - +.oxfordmusiconline.com
-    - +.oxfordpoliticstrove.com
-    - +.oxfordre.com
-    - +.oxfordreference.com
+    - +.oxfordaasc.com
+    - +.oxfordfirstsource.com
+    - +.oxfordlawtrove.com
     - +.anb.org
     - +.oxfordscholarship.com
     - +.oxfordwesternmusic.com
-    - +.ieee-npss.org
-    - +.ieee-ims.org
-    - +.ieee-ies.org
-    - +.ieee-edusociety.org
-    - +.ieee-ceda.org
-    - +.ieee-cas.org
-    - +.ieee-aess.org
-    - +.grss-ieee.org
+    - +.sipriyearbook.org
+    - +.ukwhoswho.com
+    - +.universitypressscholarship.com
+    - +.imperialbusiness.school
+    - +.livinno.org
+    - +.opac-project.eu
+    - +.cambridgemaths.org
+    - +.cambridgedigital.net
+    - +.cambridge.org
+    - +.aacrjournals.org
+    - +.capitaliq.com
+    - +.acm.org
+    - +.computer.org
+    - +.itsoc.org
+    - +.ieeesystemscouncil.org
+    - +.ieeesmc.org
+    - +.ieeeoes.org
+    - +.ieeenano.org
+    - +.apa.org
+    - +.psyccareers.com
     - +.cell.com
     - +.clinicalkey.com
     - +.els-cdn.com
@@ -352,19 +310,58 @@ payload:
     - +.reaxys.com
     - +.scival.com
     - +.scopus.com
-    - +.apress.com
-    - +.springer.com
-    - +.springerlink.com
-    - +.springernature.com
-    - +.wkap.nl
-    - +.tandfonline.com
-    - +.taylorandfrancis.com
-    - +.taylorfrancis.com
-    - +.emcs.org
+    - +.aclweb.org
+    - +.mit.edu
+    - +.mit.net
+    - +.mitpressjournals.org
     - +.serialssolutions.com
     - +.proquest.com
+    - +.sci-hub.se
+    - +.sci-hub.ee
+    - +.sci-hub.st
+    - +.ieeemagnetics.org
+    - +.ieeedeis.org
+    - +.ieeecss.org
+    - +.hku.hk
+    - +.xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g
+    - +.cuhk.hk
+    - +.edu.hk
+    - +.xn--fiq80y.xn--j6w193g
+    - +.xn--fiq80y3xbiwr.hk
+    - +.xn--fiq80y3xbiwr.xn--j6w193g
+    - +.xn--pssu7cv61af44b.hk
+    - +.xn--fiq80y3xbiwrs0kiu9d.xn--j6w193g
+    - +.xn--wcvs22d.xn--j6w193g
+    - +.eduhk.hk
+    - +.xn--pssu7ci2j23mp9ny48b.xn--j6w193g
+    - +.xn--uis44a.xn--j6w193g
+    - +.xn--pssu7cv61af44b.xn--j6w193g
+    - +.xn--pssu7ci3q5oge0ai91q.xn--j6w193g
+    - +.cityu.hk
+    - +.xn--fiq80y.hk
+    - +.xn--fiq80y3xbiwrs0kiu9d.hk
+    - +.hkbu.hk
+    - +.polyu.hk
+    - +.hkust.hk
+    - +.xn--pssu7ci2j23mp9ny48b.hk
+    - +.ieeecsc.org
+    - +.ieeeaps.org
+    - +.ieee-uffc.org
+    - +.ieee-tems.org
+    - +.ieee-sensors.org
+    - +.ieee-ras.org
+    - +.ieee-pes.org
+    - +.ieee-pels.org
+    - +.ieee-npss.org
+    - +.ieee-ims.org
+    - +.ieee-ies.org
     - +.sciencedirect.com
     - +.sciencedirectassets.com
+    - +.clarivate.com
+    - +.webofknowledge.com
+    - +.webofscience.com
+    - +.newisiknowledge.com
+    - +.isiknowledge.com
     - +.bookshome.info
     - +.z-lib.org
     - +.1lib.domains
@@ -412,7 +409,7 @@ payload:
     - +.z-library.se
     - +.zlib.life
     - +.zlibcdn.com
-    - +.embs.org
+    - +.ieee-edusociety.org
     - +.ac.ir
     - +.edu.ir
     - +.iranlms.ir
@@ -421,9 +418,7 @@ payload:
     - +.sharif.edu
     - +.sharif.ir
     - +.srttu.edu
-    - +.comsoc.org
-    - +.apa.org
-    - +.psyccareers.com
+    - +.ieee-ceda.org
     - +.doi.org
     - +.doi.info
     - +.ieee.org
@@ -442,26 +437,31 @@ payload:
     - +.ieeefoundation.org
     - +.ieee-into-focus.org
     - +.ieee-vics.org
-    - +.sci-hub.se
+    - +.ieeeday.org
     - +.datasheets360.com
     - +.globalspec.com
     - +.ieee-isto.org
     - +.techstreet.com
-    - +.computer.org
-    - +.acaric.co.jp
-    - +.nii.ac.jp
-    - +.tandf.co.uk
-    - +.dlib.eastview.com
+    - +.ieee-cas.org
+    - +.comsoc.org
+    - +.embs.org
+    - +.emcs.org
+    - +.grss-ieee.org
+    - +.ieee-aess.org
+    - +.sci-hub.it.nf
+    - +.dln1.ncdn.ec
     - +.sci.hubg.org
     - +.sci-hub.mksa.top
-    - +.sci-hub.it.nf
-    - +.academic.eb.com
-    - +.dln1.ncdn.ec
+    - +.tandf.co.uk
+    - +.dlib.eastview.com
+    - +.nii.ac.jp
     - +.ncl.edu.tw
     - +.lawdata.com.tw
-    - +.amdigital.co.uk
+    - +.academic.eb.com
     - +.infolinker.com.tw
     - +.hanzhen.xmulib.org
     - +.icsd.fiz-karlsruhe.de
+    - +.amdigital.co.uk
+    - +.acaric.co.jp
     - +.jstage.jst.go.jp
     - +.ncbi.nlm.nih.gov

@@ -1,4 +1,5 @@
 payload:
+    - csis-prod.s3.amazonaws.com
     - a.ppy.sh
     - assets.ppy.sh
     - c.ppy.sh
@@ -7,7 +8,6 @@ payload:
     - lazer.ppy.sh
     - notify.ppy.sh
     - spectator.ppy.sh
-    - csis-prod.s3.amazonaws.com
     - +.aomedia.org
     - +.atypi.org
     - +.change.org
@@ -23,6 +23,25 @@ payload:
     - +.who.int
     - +.wi-fi.org
     - +.wto.org
+    - +.nist.gov
+    - +.time.gov
+    - +.openmaps.org
+    - +.openstreetmap.com
+    - +.openstreetmap.net
+    - +.openstreetmap.org
+    - +.openstreetmaps.org
+    - +.osm.org
+    - +.osmfoundation.org
+    - +.stateofthemap.com
+    - +.stateofthemap.org
+    - +.paskoocheh.com
+    - +.rolfoundation.org
+    - +.rolsociety.org
+    - +.csis.org
+    - +.f-dro1d.org
+    - +.f-droid.com
+    - +.f-droid.org
+    - +.fdroid.org
     - +.attestation.app
     - +.grapheneos.app
     - +.grapheneos.ca
@@ -47,10 +66,6 @@ payload:
     - +.messybrainz.org
     - +.metabrainz.org
     - +.musicbrainz.org
-    - +.nist.gov
-    - +.time.gov
-    - +.rolfoundation.org
-    - +.rolsociety.org
     - +.ccstatic.org
     - +.creativecommons.org
     - +.creativecommons.engineering
@@ -113,20 +128,5 @@ payload:
     - +.signalprocessingsociety.org
     - +.technologyandsociety.org
     - +.vtsociety.org
-    - +.openmaps.org
-    - +.openstreetmap.com
-    - +.openstreetmap.net
-    - +.openstreetmap.org
-    - +.openstreetmaps.org
-    - +.osm.org
-    - +.osmfoundation.org
-    - +.stateofthemap.com
-    - +.stateofthemap.org
-    - +.paskoocheh.com
     - +.ppy.sh
-    - +.csis.org
-    - +.f-dro1d.org
-    - +.f-droid.com
-    - +.f-droid.org
-    - +.fdroid.org
     - sentry.ppy.sh

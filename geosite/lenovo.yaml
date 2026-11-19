@@ -1,20 +1,23 @@
 payload:
-    - +.lenovomm.com
-    - +.iprintworks.cn
-    - +.lenovo.net
+    - +.lenovomm.cn
+    - +.lenovofile.com
+    - +.lenovopoc.com
+    - +.cftsupport.com
     - +.ileapcloud.com
-    - +.lx.pub
+    - +.lenovocloudos.com
     - +.lenovo.cn
-    - +.lenovo.com
+    - +.lenovo.net
+    - +.lenovomm.com
     - +.lenovoeservice.com
+    - +.filez.com
     - +.lxzjjt.cn
     - +.lxzjjt.com
     - +.thinkcloudlab.com
     - +.thinkpad.com
-    - +.lenovopoc.com
-    - +.lenovofile.com
-    - +.filez.com
     - +.bestrhy.com
+    - +.lefile.cn
+    - +.lenovofuturecenter.com
+    - +.lenovofoundation.cn
     - +.lecoo.com
     - +.blurdev.com
     - +.chainedbox.com
@@ -23,13 +26,13 @@ payload:
     - +.zxsales.cn
     - +.juhuiwan.com
     - +.thinkprinter.net
-    - +.lx.run
+    - +.juhuiwan.net
     - +.lenauth.com
     - +.lenovogame.com
-    - +.lenovomm.cn
-    - +.cftsupport.com
-    - +.lenovocloudos.com
-    - +.juhuiwan.net
+    - +.lx.pub
+    - +.baiying.cn
+    - +.lenovo.com
+    - +.lx.run
     - +.surepush.cn
     - +.zui.cn
     - +.zui.com
@@ -42,7 +45,7 @@ payload:
     - +.cunchuhulian-ln.cn
     - +.lenovonetapp.com
     - +.dayin8.com
-    - +.baiying.cn
+    - +.iprintworks.cn
     - +.lenovoimage.cn
     - +.lenovoimage.com
     - +.lenovoprinter.com
