@@ -1,6 +1,6 @@
 payload:
-    - +.txtyxg.com
-    - +.mahjongai.net
+    - +.tencentyun.com
+    - +.coding.me
     - +.acimg.cn
     - +.apcdns.net
     - +.foxmail.com
@@ -15,19 +15,19 @@ payload:
     - +.qpic.cn
     - +.qq.com
     - +.qq.wang
-    - +.yuewen.com
-    - +.xxsypro.com
-    - +.xxsy.net
+    - +.koowo.com
+    - +.koowo.cn
+    - +.kugouyouth.com
     - +.qqmail.com
     - +.qzone.com
-    - +.xs8.cn
-    - +.xs.cn
+    - +.kugouvoice.com
+    - +.kugoustore.com
     - +.servicewechat.com
     - +.tencent.cn
     - +.tencent.com
-    - +.tingbook.com
+    - +.kugousenior.com
     - +.tencent.net
-    - +.rongshuxia.com
+    - +.kugouringtone.com
     - +.tencentmiying.com
     - +.tengmed.com
     - +.tenpay.com
@@ -74,15 +74,36 @@ payload:
     - +.fymallqa7.com
     - +.fymallqa9.com
     - +.tdnsdl1.cn
-    - +.readnovel.com
+    - +.kugouliveshow.com
     - +.tdnsdl2.cn
-    - +.qidian.com
+    - +.kugoukid.com
     - +.tdnsdl3.cn
-    - +.qdmm.com
+    - +.kugouipv6.com
     - +.tdnsdl4.cn
-    - +.hongxiu.com
+    - +.kugouaudio.com
     - +.tdnsdl5.cn
     - +.qq.xn--fiqs8s
+    - +.aireads.cn
+    - +.chatdrama.cn
+    - +.chatdrama.net
+    - +.chatqidian.cn
+    - +.chatqidian.net
+    - +.chattext.cn
+    - +.chatwrite.net
+    - +.chatxiaoxiang.com
+    - +.chatyuewen.cn
+    - +.dishu3.com
+    - +.hongxiu.com
+    - +.qdmm.com
+    - +.qidian.com
+    - +.readnovel.com
+    - +.rongshuxia.com
+    - +.tingbook.com
+    - +.xs.cn
+    - +.xs8.cn
+    - +.xxsy.net
+    - +.xxsypro.com
+    - +.yuewen.com
     - +.tencentclb.com
     - +.tencentcdb.cn
     - +.aitransfy.com
@@ -145,7 +166,7 @@ payload:
     - +.itopsdk.com
     - +.my-imcloud.com
     - +.my-qcloud.com
-    - +.discuz.org
+    - +.doh.pub
     - +.myelasticsearch.com
     - +.myqcloud.com
     - +.onexmail.com
@@ -162,9 +183,9 @@ payload:
     - +.qcloudclass.com
     - +.qcloudcos.cn
     - +.qcloudcos.com
-    - +.discuz.net
-    - +.comsenz.com
-    - +.doh.pub
+    - +.dnsv5.com
+    - +.dnspod.org
+    - +.dnsv3.com
     - +.qclouder.com
     - +.qcloudgme.com
     - +.qcloudimg.com
@@ -193,7 +214,7 @@ payload:
     - +.srmkp.cn
     - +.starlakelab.com
     - +.tapd.cn
-    - +.tcdlive.com
+    - +.tendbcluster.com
     - +.tcdnhw.com
     - +.tcdnkcbak.com
     - +.tcdnlive.com
@@ -214,7 +235,7 @@ payload:
     - +.tcloudhw.net
     - +.tcloudscdn.com
     - +.tcloudscdn.net
-    - +.txyscdn.com
+    - +.tdnsstic1.cn
     - +.tdnsx1.com
     - +.techo.chat
     - +.tefscloud.com
@@ -225,9 +246,9 @@ payload:
     - +.tencent-cloud.net
     - +.tencentapps.com
     - +.tencentbyod.com
-    - +.dnsv5.com
+    - +.dnsv4.com
     - +.tencentcdb.com
-    - +.dnspod.org
+    - +.dns.pub
     - +.tencentclb.cn
     - +.testmeet.cn
     - +.acctdns.net
@@ -241,7 +262,7 @@ payload:
     - +.tencentcloudses.com
     - +.tencentcos.cn
     - +.tencentcos.com
-    - +.dnsv3.com
+    - +.dnsapi.cn
     - +.tencentcs.cn
     - +.tencentcs.com
     - +.tencentdayu.com
@@ -258,15 +279,15 @@ payload:
     - +.tencenttid.com
     - +.tencentwemeet.club
     - +.tencentwepark.com
-    - +.tencentyun.com
-    - +.tendbcluster.com
-    - +.tendis.net
-    - +.dnsv4.com
+    - +.kugou.net
+    - +.tcdlive.com
+    - +.xn--r70as2s.xn--fiqs8s
+    - +.dnspod.mobi
     - +.acctdns.com
     - +.testwaf.com
     - +.tgovcloud.com
     - +.tidaas.com
-    - +.dns.pub
+    - +.dot.pub
     - +.timmerse.com
     - +.tlivecdn.com
     - +.tlivemcdn.com
@@ -279,9 +300,9 @@ payload:
     - +.txbyod.com
     - +.txidc.wang
     - +.txlivecdn.com
-    - +.dishu3.com
-    - +.tdnsstic1.cn
-    - +.xn--r70as2s.xn--fiqs8s
+    - +.txtyxg.com
+    - +.txyscdn.com
+    - +.txyscdn.net
     - +.uncnn.cn
     - +.vcloudstc.com
     - +.vcloudstc.net
@@ -291,7 +312,7 @@ payload:
     - +.wework-studio.com
     - +.xqymuy.com
     - +.yufuid.com
-    - +.dnsapi.cn
+    - +.dnspod.com
     - +.yufuid.net
     - +.yunjitele.com
     - +.dnse0.cn
@@ -336,12 +357,12 @@ payload:
     - +.tdnsv13.net
     - +.tdnsv14.net
     - +.tdnsv15.net
-    - +.dnspod.mobi
-    - +.dot.pub
-    - +.dnspod.com
     - +.dnspod.cn
     - +.dnsv2.com
     - +.dnspod.net
+    - +.discuz.org
+    - +.discuz.net
+    - +.comsenz.com
     - +.rumt-zh.com
     - +.tamaegis.com
     - +.ym.run
@@ -353,30 +374,30 @@ payload:
     - +.m9.run
     - +.m1.run
     - +.m6.run
-    - +.chatyuewen.cn
-    - +.chatxiaoxiang.com
-    - +.chatwrite.net
-    - +.chattext.cn
-    - +.chatqidian.net
-    - +.chatqidian.cn
-    - +.chatdrama.net
-    - +.chatdrama.cn
-    - +.aireads.cn
-    - +.koowo.com
-    - +.koowo.cn
-    - +.kugouyouth.com
-    - +.kugouvoice.com
-    - +.kugoustore.com
-    - +.kugousenior.com
-    - +.kugouringtone.com
-    - +.kugouliveshow.com
-    - +.kugoukid.com
-    - +.kugouipv6.com
-    - +.kugouaudio.com
-    - +.kugou.net
     - +.mting.info
     - +.tencentmusic.com
     - +.xmcdn.com
+    - +.kglink.cn
+    - +.kgimg.com
+    - +.fanxingliveshow.com
+    - +.ultimatemusic.cn
+    - +.tingmall.com
+    - +.97ting.com
+    - +.wting.info
+    - +.qqmusic.com
+    - +.lrts.me
+    - +.kugoo.com
+    - +.ximalaya.com
+    - +.ktv.com
+    - +.kuwo.cn
+    - +.kugou.com
+    - +.supercellsupport.cn
+    - +.supercellcommunity.cn
+    - +.scsentry.cn
+    - +.scid.cn
+    - +.scescdn.cn
+    - +.sccreators.cn
+    - +.sccreator.cn
     - +.sogoucdndl.com
     - +.yidianliulan.cn
     - +.ggowan.com
@@ -407,8 +428,8 @@ payload:
     - +.xinyan.cn
     - +.yeyousg.com
     - +.sogoucdn.com
-    - +.kglink.cn
-    - +.kgimg.com
+    - +.labycore.cn
+    - +.haydaypop.cn
     - +.openmidas.com
     - +.qq.design
     - +.qqgamedesign.com
@@ -421,7 +442,7 @@ payload:
     - +.weui.io
     - +.cnb.cool
     - +.cnb.space
-    - +.coding.me
+    - +.tendis.net
     - +.coding.net
     - +.yxdmgame.com
     - +.pubgtool.com
@@ -442,7 +463,7 @@ payload:
     - +.ihappystudio.com
     - +.ludosuperstar.cn
     - +.ludoworld.net
-    - +.txyscdn.net
+    - +.mahjongai.net
     - +.mahjongcup.cn
     - +.mahjongcup.com
     - +.mahjongcup.net
@@ -492,57 +513,36 @@ payload:
     - +.battlecare.net
     - +.codm.com
     - +.brawlstars.cn
-    - +.haydaypop.cn
-    - +.labycore.cn
-    - +.sccreator.cn
-    - +.sccreators.cn
-    - +.scescdn.cn
-    - +.scid.cn
-    - +.scsentry.cn
-    - +.supercellcommunity.cn
-    - +.supercellsupport.cn
-    - +.fanxingliveshow.com
-    - +.ultimatemusic.cn
-    - +.tingmall.com
-    - +.97ting.com
-    - +.wting.info
-    - +.qqmusic.com
-    - +.kugou.com
-    - +.kuwo.cn
-    - +.ktv.com
-    - +.ximalaya.com
-    - +.kugoo.com
-    - +.lrts.me
-    - +.jrzk.net.cn
-    - +.tencentclb.com.cn
-    - +.wegame.com.cn
-    - +.werepository.com.cn
-    - +.sogou.com.cn
-    - +.soso.com.cn
-    - +.foxmail.com.cn
-    - +.tencent.com.cn
     - +.qq.cn.com
-    - +.qq.com.cn
-    - +.rtx.com.cn
-    - +.dnsv1.com.cn
+    - +.sogou.com.cn
+    - +.foxmail.com.cn
+    - +.gtimg.com.cn
+    - +.oracle-tencent.net.cn
     - +.tencentcdb.com.cn
+    - +.werepository.com.cn
+    - +.wegame.com.cn
+    - +.dnspod.com.cn
     - +.tencentcos.com.cn
     - +.testjrzk.net.cn
     - +.qcloudcos.com.cn
-    - +.dnspod.com.cn
+    - +.jrzk.net.cn
     - +.timatrix.com.cn
-    - +.oracle-tencent.net.cn
-    - +.gtimg.com.cn
-    - +.oracle-tencent.com.cn
-    - +.yufuid.com.cn
-    - +.ectencent.com.cn
     - +.goto-game.net.cn
+    - +.soso.com.cn
+    - +.yufuid.com.cn
+    - +.dnsv1.com.cn
+    - +.oracle-tencent.com.cn
+    - +.ectencent.com.cn
     - +.tdnsdl5.com.cn
     - +.tdnsdl4.com.cn
     - +.tdnsdl3.com.cn
     - +.tdnsdl2.com.cn
     - +.tdnsdl1.com.cn
     - +.tencent.net.cn
+    - +.tencent.com.cn
+    - +.rtx.com.cn
+    - +.qq.com.cn
+    - +.tencentclb.com.cn
     - +.tencent.co.id
     - +.tencent.com.hk
     - +.tencentads.com
@@ -599,6 +599,7 @@ payload:
     - +.trace.qq.com
     - +.ugdtimg.com
     - +.wit.qq.com
+    - +.webnovel.com
     - +.intltencentcos.com
     - +.ap-hongkong.myqcloud.com
     - +.ap-singapore.myqcloud.com
@@ -687,4 +688,3 @@ payload:
     - +.adbehavior.ximalaya.com
     - +.adse.wsa.ximalaya.com
     - +.adse.ximalaya.com
-    - +.webnovel.com
