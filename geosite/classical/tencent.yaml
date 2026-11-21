@@ -1,6 +1,6 @@
 payload:
     - DOMAIN-SUFFIX,tencentyun.com
-    - DOMAIN-SUFFIX,coding.me
+    - DOMAIN-SUFFIX,cnb.cool
     - DOMAIN-SUFFIX,acimg.cn
     - DOMAIN-SUFFIX,apcdns.net
     - DOMAIN-SUFFIX,foxmail.com
@@ -440,10 +440,10 @@ payload:
     - DOMAIN-SUFFIX,wegamedeveloper.com
     - DOMAIN-SUFFIX,weixinbridge.com
     - DOMAIN-SUFFIX,weui.io
-    - DOMAIN-SUFFIX,cnb.cool
-    - DOMAIN-SUFFIX,cnb.space
-    - DOMAIN-SUFFIX,tendis.net
+    - DOMAIN-SUFFIX,coding.me
     - DOMAIN-SUFFIX,coding.net
+    - DOMAIN-SUFFIX,tendis.net
+    - DOMAIN-SUFFIX,cnb.space
     - DOMAIN-SUFFIX,yxdmgame.com
     - DOMAIN-SUFFIX,pubgtool.com
     - DOMAIN-SUFFIX,gameloop.com
